@@ -1,5 +1,5 @@
 ""
-name,location,business id,alias,title,rating,review_count,price,latitude,longitude
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
 The Winery Restaurant & Wine Bar,"4301 La Jolla Village Dr Ste 2040 San Diego, CA 92122",76ADW8x8J_69qbtsc5F-2g,bars,Bars,4.0,492,$$,32.8724284,-117.2137748
 Bernardo Winery,"13330 Paseo Del Verano Norte San Diego, CA 92128",DknnpiG1p4OoM1maFshzXA,winetastingroom,Wine Tasting Room,4.5,626,$$,33.0328,-117.04646
 Baja Winery Tours,"4629 Cass St San Diego, CA 92109",vVaNDvLrCCE_Cw_DyPnBpA,winetours,Wine Tours,5.0,66,,32.7989164,-117.2521107
@@ -12,19 +12,20 @@ Carruth Cellars Wine Garden,"2215 Kettner Blvd San Diego, CA 92101",yZp9FdMH6Dmn
 Blue Door Urban Winery,"4060 Morena Blvd San Diego, CA 92117",ElE6Nj7iz-tNV4ebV6Clew,wineries,Wineries,4.5,76,$$,32.814091,-117.218254
 Cordiano Winery,"15732 Highland Valley Rd Escondido, CA 92025",Ub2bJsi7lIOQ9TyIKdHaJw,wineries,Wineries,4.0,547,$$,33.06811797232301,-116.99171457055219
 FruitCraft - Fermentery & Distillery,"1477 University Ave San Diego, CA 92103",sCET1pLdKNNPBQJyjPOkww,wineries,Wineries,4.5,308,$$,32.7482172191911,-117.149462938309
+Village Vino,"4095 Adams Ave San Diego, CA 92116",Mh2im7E1Vs1DV8JHw-x_CQ,wine_bars,Wine Bars,4.5,183,$$,32.76307,-117.107512
 Pali Wine Co,"2130 India St San Diego, CA 92101",fyh566YXm5XJ3Ntv_GLghg,winetastingroom,Wine Tasting Room,4.0,173,$$,32.7267968,-117.1697587
 LJ Crafted Wines - Wines & Tastings,"5621 La Jolla Blvd San Diego, CA 92037",7i8AdZoDySoEdT_uoMMzNA,winetastingroom,Wine Tasting Room,4.5,85,$$,32.81438,-117.2695
-Village Vino,"4095 Adams Ave San Diego, CA 92116",Mh2im7E1Vs1DV8JHw-x_CQ,wine_bars,Wine Bars,4.5,183,$$,32.76307,-117.107512
-Speckle Rock Vineyards,"16138 Highland Valley Rd Escondido, CA 92025",ALTc2EAwGkWfVL9gpuGdqw,wineries,Wineries,5.0,59,,33.0613615832364,-116.977404019766
 The WineSellar & Brasserie,"9550 Waples St Ste 115 San Diego, CA 92121",SQEG9sfJ9Toj0Zy16Y-I7Q,french,French,4.5,234,$$$,32.90366,-117.18281
 San Pasqual Winery,"8167 Center St La Mesa, CA 91942",Phqm2QvJE0uEqpxMvdzH_g,wineries,Wineries,5.0,20,$$,32.7715894,-117.0213181
 Altipiano Vineyard & Winery,"20365 Camino Del Aguila Escondido, CA 92025",NKsyDqmKiNWT4HtkBh6AdA,wineries,Wineries,4.5,111,$$,33.063289642334,-117.00439453125
+Speckle Rock Vineyards,"16138 Highland Valley Rd Escondido, CA 92025",ALTc2EAwGkWfVL9gpuGdqw,wineries,Wineries,5.0,59,,33.0613615832364,-116.977404019766
 Gianni Buonomo Vintners,"4836 Newport Ave San Diego, CA 92107",o0flINbzGa8LDlM9Mtbfwg,winetastingroom,Wine Tasting Room,4.5,55,$$,32.745389,-117.24811
-Orfila Vineyards & Winery,"13455 San Pasqual Rd Escondido, CA 92025",byCgY1g4Iw8_lR63QkiY_g,venues,Venues & Event Spaces,4.0,590,$$,33.0706662224401,-117.043723896032
 Koi Zen Cellars,"12225 World Trade Dr Ste P & Q San Diego, CA 92128",Oic9__gID0APdrBIjP4Xjw,wineries,Wineries,5.0,113,$$,32.9864799,-117.072145
+Orfila Vineyards & Winery,"13455 San Pasqual Rd Escondido, CA 92025",byCgY1g4Iw8_lR63QkiY_g,venues,Venues & Event Spaces,4.0,590,$$,33.0706662224401,-117.043723896032
 JuneShine Ranch,"10051 Old Grove Rd San Diego, CA 92131",Ix9HmzIlEhHN9UwQJ1_Mgg,kombucha,Kombucha,4.5,64,$$,32.898529,-117.110943
 La Mesa Wine Works,"8167 Center St La Mesa, CA 91942",YVMiPOAPsEd1fXxNmpjEMA,winetastingroom,Wine Tasting Room,4.0,43,$$,32.7716259387843,-117.021328279762
 Lost Cause Meadery,"8665 Miralani Dr Ste 100 San Diego, CA 92126",mAekDhV34jyXJzXghYxpsg,breweries,Breweries,5.0,112,$$,32.89526,-117.13664
+Abnormal Wine Company,"16990 Via Tazon Ste 123 San Diego, CA 92127",ptA-I2Kk78jydAeJIYs2Cg,wineries,Wineries,4.0,99,$$,33.023853302002,-117.085762023926
 Let's Go Vino,"San Diego, CA 92130",-YFEhkaS2EtC0voVsmeXOw,winetours,Wine Tours,5.0,9,,32.94725799560547,-117.21234893798828
 San Diego Wine & Beer Co,"7080 Miramar Rd Ste 100 San Diego, CA 92121",bsGgav9QBtzQdTumzKpgFg,beer_and_wine,"Beer, Wine & Spirits",4.5,148,$$,32.8794982,-117.1633117
 Highland Valley Vineyards,"15412 Bandy Canyon Rd Escondido, CA 92025",9qalQETuaZnFDgZrsEB7MA,wineries,Wineries,5.0,38,$$,33.0717697143555,-117.008392333984
@@ -32,14 +33,13 @@ Highland Valley Vineyards,"15412 Bandy Canyon Rd Escondido, CA 92025",9qalQETuaZ
 Granite Lion Cellars,"2801 Jamul Highlands Rd Jamul, CA 91935",1PS0mcUZkJPyG72pk3zwVg,wineries,Wineries,4.5,26,$$,32.715435,-116.84783157306343
 Three Hills Winery,"16805 Highland Valley Rd Ramona, CA 92065",Ye4Pr0ZbC8sGPwpWqR5wvQ,winetastingroom,Wine Tasting Room,4.5,6,,33.03098,-116.96538
 Baja Society Tours,"3914 Centre St San Diego, CA 92103",q_crEScigSVXHuAzTsxOuw,winetours,Wine Tours,5.0,14,,32.748614,-117.147746
-Abnormal Wine Company,"16990 Via Tazon Ste 123 San Diego, CA 92127",ptA-I2Kk78jydAeJIYs2Cg,wineries,Wineries,4.0,99,$$,33.023853302002,-117.085762023926
 Woof'n Rose Winery and Vineyard,"17073 Garjan Ln Ramona, CA 92065",f62YFfiriHapBhadXfMquA,wineries,Wineries,4.5,23,$$,33.021401,-116.936933
 Bastian's Vineyards,"15326 Bandy Canyon Rd Escondido, CA 92025",BGfXAtLC5sHBWOKlcb17KA,wineries,Wineries,5.0,1,,33.070272,-117.011318
 Coasterra,"880 Harbor Island Dr San Diego, CA 92101",gW9QYl6rijkncwPpvdVr7A,mexican,Mexican,4.0,2660,$$,32.7245003650114,-117.188005998672
-Vineyard Grant James,"25260 E Old Julian Hwy Ramona, CA 92065",gFPq8yqFRd9caMgkO5HvpQ,wineries,Wineries,5.0,155,$$,33.052155931209,-116.783193226939
 Serpentine Cider,"8665 Miralani Dr Ste 100 San Diego, CA 92126",hpUbpxrdm0cKSCQjpwLn2w,cideries,Cideries,4.5,126,$,32.8953066935246,-117.137065847519
 Rustic Ridge Vineyards,"15262 Lyons Valley Rd Jamul, CA 91935",97NwIhRGPhv1c4DU9DMpPA,winetastingroom,Wine Tasting Room,4.5,18,,32.72896,-116.83318
 Rose's Tasting Room,"2754 Calhoun St San Diego, CA 92110",VksLDK5jI-O53y0fFoUlQQ,winetastingroom,Wine Tasting Room,4.5,99,$$,32.7555682871263,-117.196903291263
+Vineyard Grant James,"25260 E Old Julian Hwy Ramona, CA 92065",gFPq8yqFRd9caMgkO5HvpQ,wineries,Wineries,5.0,155,$$,33.052155931209,-116.783193226939
 Espinosa Vineyards and Winery,"15360 Bandy Canyon Rd Escondido, CA 92025",wLEvfL3dKvMMPD17-lpcGw,winetastingroom,Wine Tasting Room,5.0,126,$$,33.0704482,-117.0094544
 The Shops at Bernardo Winery,"13330 Paseo Del Verano Norte San Diego, CA 92128",NBRi4QUMI8JfY9Qpgawi5w,venues,Venues & Event Spaces,4.5,13,$$,33.033277,-117.047116
 Charlie & Echo,"8680 Miralani Dr Ste 113 San Diego, CA 92126",9YDsJ5OL1hkx_vqwlJhi_Q,winetastingroom,Wine Tasting Room,4.5,12,$,32.89655,-117.13743
@@ -49,25 +49,25 @@ Guthrie CiderWorks,"6496 Marindustry Dr Ste D San Diego, CA 92121",hetSiVAGzvBo8
 So Cal Wines,"11160 Vista Sorrento Pkwy San Diego, CA 92130",0gGOIJo3MUVpuy8hAepCGQ,wineries,Wineries,4.5,2,,32.9176694,-117.2309713
 Vintage Wines Limited,"6904 Miramar Rd Ste 201 San Diego, CA 92121",cPnZzKMVRXUBEx7oCB9ABA,beer_and_wine,"Beer, Wine & Spirits",4.5,41,$$,32.8792,-117.16743
 Vineyard Hacienda,"12685 Campo Rd Spring Valley, CA 91978",DcCRmKBVGOQdHpiDYc--Pg,venues,Venues & Event Spaces,4.5,55,,32.723692,-116.917335
-San Pasqual Winery Tasting Room & Gallery,"8364 La Mesa Blvd La Mesa, CA 91942",ia3GRsrEDexiodnpXe0D6w,winetastingroom,Wine Tasting Room,4.5,81,$$,32.76572,-117.01787
-name,location,business id,alias,title,rating,review_count,price,latitude,longitude
 Aall In Limo & Party Bus,"655 W Broadway Ste 1300 San Diego, CA 92101",pnZcC9NQxldBQyK9ccNVOQ,limos,Limos,5.0,162,,32.715375,-117.168598
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Vino Carta,"2161 India St San Diego, CA 92101",m4GLKC9LG_aelSqR_BCcEg,beer_and_wine,"Beer, Wine & Spirits",4.5,63,$$,32.727181229033,-117.169526070356
 California Wine Line,"San Diego, CA 92101",5fkdGagUJDuc3axRWchzJQ,wineries,Wineries,5.0,2,,32.6059744,-117.0441009
+San Pasqual Winery Tasting Room & Gallery,"8364 La Mesa Blvd La Mesa, CA 91942",ia3GRsrEDexiodnpXe0D6w,winetastingroom,Wine Tasting Room,4.5,81,$$,32.76572,-117.01787
 Baja California Wine Tours,"San Diego, CA 92110",-R9x8f3TaNek2JIP-4OHCA,winetours,Wine Tours,5.0,9,,32.76772,-117.19483
 The Wine Lover,"3968 5th Ave San Diego, CA 92103",xsnS_WeHv2QYOK2N1PKmTA,wine_bars,Wine Bars,4.0,206,$$,32.74955,-117.16078
 Chuparosa Vineyards,"910 Gem Ln Ramona, CA 92065",D9rtDihupzA39yBh0YcAXg,wineries,Wineries,5.0,39,$$,33.009689,-116.858495
-Vino Carta,"2161 India St San Diego, CA 92101",m4GLKC9LG_aelSqR_BCcEg,beer_and_wine,"Beer, Wine & Spirits",4.5,63,$$,32.727181229033,-117.169526070356
 Principe di Tricase Winery,"18425 Highland Valley Rd Ramona, CA 92065",RdMY32yM5MRIztG9gzuDKw,wineries,Wineries,4.5,71,$$,33.0246391,-116.932663
 Baja Xpress,"3802 Rosecrans St Ste 315 San Diego, CA 92110",Wn_5aK8ecXDi6e1lZX4Djg,winetours,Wine Tours,5.0,6,,32.753397,-117.203372
 Serpentine Cider,"2311 El Cajon Blvd San Diego, CA 92104",JxeaJ07kzO6MYnDJ2rLoeA,cideries,Cideries,4.5,14,,32.755,-117.13971
+Quigley Fine Wines,"1551 Fourth Ave San Diego, CA 92101",U1F6GFNI_nw4WawP546qHQ,winetastingroom,Wine Tasting Room,4.5,3,$$,32.6837679,-117.0923119
+Bottlecraft Beer Shop and Tasting Room,"2252 India St San Diego, CA 92101",PgGEPIeE2JPf40xNwWj6UQ,beer_and_wine,"Beer, Wine & Spirits",4.5,327,$$,32.7269453,-117.1695079
 Continental Bistro,"2539 Congress Street A San Diego, CA 92110",NA9IzEA80BsNBSATIpPDOQ,wine_bars,Wine Bars,3.5,3,,32.75222,-117.196385
 Aha Baja Wine Tours,"3941 Mason St San Diego, CA 92110",Xr07i4R5yJkvjEz4Jedx6A,winetours,Wine Tours,5.0,22,,32.75283,-117.19735
 Hatfield Creek Winery,"1625 Hwy 78 Ramona, CA 92065",V3kR-0Nb6ISBQ8ebXZJeVQ,winetastingroom,Wine Tasting Room,4.5,103,$$,33.0441995688399,-116.828583402447
 Poochie's Hooch Urban Cidery,"7559 Mission Gorge Rd San Diego, CA 92120",rbtrzNAu90P2GyyE55kikA,wine_bars,Wine Bars,4.0,70,,32.807324,-117.075977
 Record Family Wines,"1035 University Ave San Diego, CA 92103",3mk6Tl3irp7x8baYoLRu9w,winetastingroom,Wine Tasting Room,5.0,3,,32.74826,-117.15441
 Dulzura Vineyard & Winery,"17323 Hwy 94 Dulzura, CA 91917",Wjn9nDudZgJ5okiB8Cbfmg,wineries,Wineries,5.0,24,$$,32.639056,-116.769926
-Quigley Fine Wines,"1551 Fourth Ave San Diego, CA 92101",U1F6GFNI_nw4WawP546qHQ,winetastingroom,Wine Tasting Room,4.5,3,$$,32.6837679,-117.0923119
-Bottlecraft Beer Shop and Tasting Room,"2252 India St San Diego, CA 92101",PgGEPIeE2JPf40xNwWj6UQ,beer_and_wine,"Beer, Wine & Spirits",4.5,327,$$,32.7269453,-117.1695079
 Wine Smarties,"9550 Waples St San Diego, CA 92121",TMuXpHvWmWlW__vpyREVjA,wineries,Wineries,4.5,26,,32.90345,-117.18322
 Cheval Winery,"2919 Hill Valley Dr Escondido, CA 92029",Ou-vDAZxoKeYkBDZzg_ZdA,wineries,Wineries,4.5,33,$$,33.12341,-117.13297
 HotShots Winery Tours,"1333 8th Ave Unit 101 San Diego, CA 92101",dPReoocjZhrq382cOnw6yw,winetours,Wine Tours,5.0,1,,32.719494,-117.157209
@@ -93,15 +93,15 @@ Forgotten Barrel Tasting Room,"1120 W 15th Ave ESCONDIDO, CA 92025",881CXnwIREXk
 Mission Cellars,"14053 Midland Rd Poway, CA 92064",WmDjdr2Y6XXnjainystcpA,wineries,Wineries,4.5,46,,32.96892183,-117.0359015
 Turtle Rock Ridge Vineyard Winery,"18351 Woods Hill Ln Ramona, CA 92065",C9YXJNAi6FggGAJ94Qmksg,wineries,Wineries,4.5,114,$$,33.0330696105957,-116.825775146484
 Schwaesdall Winery,"17677 Rancho De Oro Dr Ramona, CA 92065",Vwy9frhCg-WiurWIBznvNA,wineries,Wineries,3.5,23,$$,33.008227,-116.9243421
-Wine A Bit,"928 Orange Ave Coronado, CA 92118",NoAwoG7F02b6_lb_uNdYvg,beer_and_wine,"Beer, Wine & Spirits",4.0,185,$$,32.6868795,-117.1795736
 Castelli Family Vineyards,"17872 Oak Grove Rd Ramona, CA 92065",Rym_5OGVbYlRa4lvrG2JdQ,winetastingroom,Wine Tasting Room,5.0,8,,33.06372,-116.93436
 Solare Ristorante Italiano,"2820 Roosevelt Rd San Diego, CA 92106",vMBbRZzpmJEKzRDDGwIReA,italian,Italian,4.0,836,$$,32.737501,-117.214158
-Carruth Cellars,"118 S Cedros Ave Solana Beach, CA 92075",4IIGIWrIrMfJmlnErtmrNQ,wineries,Wineries,4.0,246,$$,32.99163,-117.27014
+Carruth Cellars,"118 S Cedros Ave Solana Beach, CA 92075",4IIGIWrIrMfJmlnErtmrNQ,wineries,Wineries,4.0,245,$$,32.99163,-117.27014
+Wine A Bit,"928 Orange Ave Coronado, CA 92118",NoAwoG7F02b6_lb_uNdYvg,beer_and_wine,"Beer, Wine & Spirits",4.0,185,$$,32.6868795,-117.1795736
 Ramona Ranch Vineyard and Winery,"23578 Hwy 78 Ramona, CA 92065",hO3x4Oqt04D5BXiL3sA3Fg,wine_bars,Wine Bars,4.5,38,$$,33.057619,-116.818681
 Correcaminos Vineyard,"1941 Lilac Rd Ramona, CA 92065",vJVWsXyZDg3GpwASETe1pQ,wineries,Wineries,5.0,29,,33.0762799,-116.86304
 Rock Canyon Vineyards,"Alpine, CA 91901",9c_BLUDYbND7lY30W_Rx1g,wineries,Wineries,3.0,7,$$,32.8350521,-116.7664109
 Siela Wines,"N Coast Hwy 101 Encinitas, CA 92024",oshle3i0k6FEHN2aujSyxg,winetastingroom,Wine Tasting Room,5.0,1,,33.0656310151373,-117.3028134612
-name,location,business id,alias,title,rating,review_count,price,latitude,longitude
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
 Baja Tour Guide,"22635 Tijuana, Baja California Mexico",CGHp2RipS3Toz58iwftkaQ,winetours,Wine Tours,5.0,4,,32.487371,-117.019088
 SD Prime Limo Service,"San Diego, CA 92124",oWuEsirDbR4Be65213KMaw,limos,Limos,5.0,1,,32.81974,-117.08932
 La Jolla Art & Wine Festival,"La Jolla, CA 92038",EzSpL_O4r00ZFg4BNi9qPw,wineries,Wineries,4.0,14,$,32.8370475769043,-117.255386352539
@@ -152,7 +152,7 @@ San Diego Sunshine,"432 Maple St Ste 6 Ramona, CA 92065",bpNfsJ916FcpQ-Kqz59Jgg,
 Boca Roja Baja Wine Adventures,"San Diego, CA 92130",JACl8HdJ59v9Q3t4YMsR8w,foodtours,Food Tours,5.0,242,,32.9436607,-117.2088167
 Barrica 9,"Av. Revolución 1265 Col. Zona Centro 22000 Tijuana, Baja California Mexico",HxTqmzT4G43iAKXrB3pqQg,winetastingroom,Wine Tasting Room,4.5,7,$$,32.53043,-117.0365
 Sip Wine & Beer,"129-131 S Orange St Escondido, CA 92025",J8p9ZucL3qzANykt0qaoVA,beer_and_wine,"Beer, Wine & Spirits",4.5,75,$$,33.11918,-117.08546
-name,location,business id,alias,title,rating,review_count,price,latitude,longitude
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
 The Wine Bank,"363 5th Ave Ste 100 San Diego, CA 92101",DVAxECR4PZs2FDg8CVQpFg,beer_and_wine,"Beer, Wine & Spirits",3.0,129,$$,32.7091293334961,-117.159812927246
 Tijuana Private Driver,"Tijuana, Baja California Mexico",Tb6JUYRnzpuAUlKE6HgDrQ,winetours,Wine Tours,5.0,46,,32.531194137936,-117.119191065431
 Bobar Liquor II,"1777 Palm Ave San Diego, CA 92154",iZGguWv3-r8ohAHIOj7guQ,beer_and_wine,"Beer, Wine & Spirits",3.5,5,$,32.583574,-117.0951068
@@ -169,10 +169,10 @@ Lakehouse Hotel and Resort,"1025 La Bonita Dr San Marcos, CA 92078",qI6wHRM1PDnO
 Meritage Wine Market & Tasting Room,"162 S Rancho Santa Fe Rd Ste A10 Encinitas, CA 92024",fJEd02y3--LMx1nG9ABQTw,beer_and_wine,"Beer, Wine & Spirits",4.0,21,$$,33.0359093272192,-117.238640793918
 Brindis,"Plaza Rocasa Blvd. Agua Caliente 10594 Tijuana, Baja California Mexico",ERz29G98zWx1G2NJ67lxdw,breweries,Breweries,3.0,3,,32.5120926,-117.0014725
 "RL Liquid Assets, Inc","5909 Sea Lion Pl Ste G Carlsbad, CA 92010",-STecUUsS69EMSE7PxwPwA,wineries,Wineries,3.0,2,,33.134743,-117.248093
+Meze Greek Fusion,"345 6th Ave San Diego, CA 92101",4D16FWeW_fw3LCIdPRRbdQ,mediterranean,Mediterranean,4.5,2494,$$,32.7089389055774,-117.158911088688
 Leyva's Liquor,"Av. Revolución 1026 Col. Centro 22000 Tijuana, Baja California Mexico",Xf0H038WA-DfjT1BmuU-sw,beer_and_wine,"Beer, Wine & Spirits",4.5,8,,32.5304795725031,-117.036234989767
 Par Liquor and Deli Clairemont,"5199 Clairemont Mesa Blvd San Diego, CA 92117",7P9kg1TRVKHQVvgJY9SyTA,beer_and_wine,"Beer, Wine & Spirits",3.5,27,$$,32.834305241704,-117.179513275623
 Point Loma Liquor,"1507 Rosecrans St San Diego, CA 92106",YtmVdu2a_lzcBI0iyzWtew,beer_and_wine,"Beer, Wine & Spirits",4.0,5,$,32.7261835,-117.2276901
-Meze Greek Fusion,"345 6th Ave San Diego, CA 92101",4D16FWeW_fw3LCIdPRRbdQ,mediterranean,Mediterranean,4.5,2494,$$,32.7089389055774,-117.158911088688
 La Valencia Hotel,"1132 Prospect St La Jolla, CA 92037",4cbeyNrtc1l5IODjYu3kDA,hotels,Hotels,4.0,683,$$$,32.84861,-117.27375
 San Diego Hotlimos and Party Bus,"140 W Bradley El Cajon, CA 92020",jZuzg_c-z1zlYqgfoc0C8A,limos,Limos,4.0,70,,32.8191632,-116.9641215
 The Wine Connection,"2650 Via De La Valle Del Mar, CA 92014",u24hl436JeU5FbEalGt-xw,beer_and_wine,"Beer, Wine & Spirits",4.0,40,$$,32.9807259,-117.2502455
