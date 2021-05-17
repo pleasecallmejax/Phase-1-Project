@@ -1,0 +1,631 @@
+""
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Hendry Vineyard and Winery,"3104 Redwood Rd Napa, CA 94558",mO8n3zTLoFhlmcfQr7X_TQ,wineries,Wineries,5.0,658,$$,38.32168,-122.34481
+Domaine Carneros,"1240 Duhig Rd Napa, CA 94559",8eGTOeEQpUpYb89ISug3ag,wineries,Wineries,4.0,2239,$$,38.25553421701142,-122.35139091165661
+Artesa Vineyards & Winery,"1345 Henry Rd Napa, CA 94558",SSvGGG4YELueu8SF3mE_3g,winetastingroom,Wine Tasting Room,4.0,1506,$$,38.2691599380148,-122.355366903427
+Bouchaine Vineyards,"1075 Buchli Station Rd Napa, CA 94559",de7QOXpKlgpaYbUK9bA-Hg,winetastingroom,Wine Tasting Room,4.5,184,$$,38.226197,-122.331614
+Paraduxx Winery,"7257 Silverado Trl Napa, CA 94558",cBFZALrZbLV5XBsiPcgknQ,wineries,Wineries,4.5,373,$$,38.43548,-122.35143
+Jarvis Winery,"2970 Monticello Rd Napa, CA 94558",NPkAqW68Og5eBofEpPiRXQ,wineries,Wineries,4.5,209,$$$,38.35701,-122.21362
+Vinoce & Twenty Rows,"68 S Coombs St Ste L6 Napa, CA 94559",7cg67fVuG-WJYJH8KxrbXQ,winetastingroom,Wine Tasting Room,5.0,276,$$,38.285944,-122.286341
+White Rock Vineyards,"1112 Loma Vista Dr Napa, CA 94558",shbhrTpVLOdql8hNGC9NDw,wineries,Wineries,5.0,55,$$,38.377683,-122.286565
+Cuvaison Estate Wines,"1221 Duhig Rd Napa, CA 94559",rjiMUH4UecBVD3wkqhgxXw,wineries,Wineries,4.0,327,$$,38.251176,-122.347084
+St Clair Brown Winery & Brewery,"816 Vallejo St Napa, CA 94559",m2QHxP8_qJBER5lPDM-Spg,breweries,Breweries,4.5,230,$$,38.305044,-122.28614
+Clos du Val,"5330 Silverado Trl Napa, CA 94558",CKdHGiYJ42pS89r1PDxd2g,wineries,Wineries,4.0,328,$$,38.3872498,-122.3125063
+William Hill Estate Winery,"1761 Atlas Peak Rd Napa, CA 94558",1ol6_Oxrb3Oq_LSko85BfQ,wineries,Wineries,4.5,186,$$,38.3555817630865,-122.270102462921
+Shadybrook Estate Winery,"100 Rapp Ln Napa, CA 94558",uELtBkcq7xqAF9970casZw,wineries,Wineries,5.0,179,$$,38.308954,-122.248219
+Platypus Wine Tours,"182 Camino Oruga Napa, CA 94558",USWs09dJN8fSrVbLZ1gDhQ,winetours,Wine Tours,5.0,896,,38.2283082,-122.2539009
+Ashes & Diamonds,"4130 Howard Ln Napa, CA 94558",kMGm-nfpM7ihMioPNe4wNQ,wineries,Wineries,4.0,179,$$,38.34425,-122.326284
+Stag's Leap Wine Cellars,"5766 Silverado Trl Napa, CA 94558",4Nadx95153ze4VrS8AQpMA,winetours,Wine Tours,4.0,487,$$$,38.3983978,-122.3243927
+Hagafen Cellars,"4160 Silverado Trl Napa, CA 94558",W8IaBhw2-S_ItlOFBH1ilA,wineries,Wineries,4.5,459,$$,38.364751,-122.289435
+Saintsbury,"1500 Los Carneros Ave Napa, CA 94559",gm0vRczMVOyJV88EnlcCJg,wineries,Wineries,4.5,136,$$,38.24996,-122.32538
+Chimney Rock Winery,"5350 Silverado Trl Napa, CA 94558",RU1Vj27-jl_cXzLldjKOJg,wineries,Wineries,4.0,308,$$$,38.390201,-122.313843
+Stags' Leap Winery,"6150 Silverado Trl Napa, CA 94558",bz6MlQQxk5Hy3IFU8SwY3A,wineries,Wineries,4.0,222,$$$,38.415754,-122.318884
+Black Stallion Winery,"4089 Silverado Trl Napa, CA 94558",HydOaTTsNz_Ezu3ESdT76w,venues,Venues & Event Spaces,4.0,385,$$,38.3598451538529,-122.29063943556353
+Trefethen Family Vineyards,"1160 Oak Knoll Ave Napa, CA 94558",PvWarVB1XiBf3YtMjDYoJg,wineries,Wineries,4.5,350,$$,38.3562374223633,-122.322991049978
+Verve Napa Valley,"Napa, CA 94558",oS0trWApclsXa6G70z9OUQ,winetours,Wine Tours,5.0,41,,38.3177642822266,-122.29174041748
+Trinitas Cellars,"850 Bordeaux Way Ste 1 Napa, CA 94558",wNnfD8wW3ts6uyXiMSZWkg,wineries,Wineries,4.5,205,$$,38.2471,-122.274639
+Peju Winery,"8466 St Helena Hwy Rutherford, CA 94573",blUuKnpEpJtpyq3B4l2Rcw,winetastingroom,Wine Tasting Room,4.0,1064,$$,38.4554826,-122.4180526
+Darioush Winery,"4240 Silverado Trl Napa, CA 94558",I_RKcCl8G0YVrCqXmgYbew,wineries,Wineries,3.5,552,$$$,38.36752,-122.29424
+Alpha Omega Collective,"1245 1st St Napa, CA 94559",3zac-C7Zip_c2ZT7uVwQJQ,wine_bars,Wine Bars,5.0,46,,38.29799,-122.28759
+Truchard Vineyards,"3234 Old Sonoma Rd Napa, CA 94559",L146DJ8gXekGeJnLzRuuuA,wineries,Wineries,4.5,85,$$,38.289128186648,-122.317485809326
+Piazza Del Dotto,"7466 St Helena Hwy Napa, CA 94558",pUem3oCj6prFnZFreyeDyw,wineries,Wineries,4.5,74,$$$$,38.422,-122.38811
+Judd's Hill Winery,"2332 Silverado Trl Napa, CA 94558",M-K51KkDDJJyZSQCW7lUWA,wineries,Wineries,4.5,275,$$,38.3393261000088,-122.27976149046
+Palmaz Vineyards,"4029 Hagen Rd Napa, CA 94558",dkBVKCKwzyk09VIhWIbONA,wineries,Wineries,5.0,124,$$$,38.323297,-122.235727
+Porter Family Vineyards,"1189 Green Valley Rd Napa, CA 94558",hODdEauc4S3GEv_5coqQqw,wineries,Wineries,5.0,57,$$$,38.2890722,-122.2273244
+Roots Run Deep Winery,"1607 First St Napa, CA 94559",elo4bmtk7nf5761zuq2muA,wineries,Wineries,4.5,54,$$,38.297016,-122.291339
+Monticello Vineyards - Corley Family Napa Valley,"4242 Big Ranch Rd Napa, CA 94558",mX9fBL4mxicdEm4kO3P_ug,wineries,Wineries,4.5,128,$$,38.359204,-122.3106703
+Kieu Hoang Winery,"1285 Dealy Ln Napa, CA 94559",sOMd4B3yiE_HrKcucHsfXw,wineries,Wineries,4.5,88,$$,38.26739,-122.3487
+Cornerstone Cellars,"1465 1st St Napa, CA 94559",FICVpmXRcWjQwAe87P9ZqA,wineries,Wineries,4.5,178,$$,38.29734,-122.28893
+Silverado Vineyards,"6121 Silverado Trl Napa, CA 94558",rMh9PfBpPqN8pEusPYhOvQ,wineries,Wineries,4.0,311,$$,38.412273,-122.336858
+Signorello Estate,"4500 Silverado Trl Napa, CA 94558",j-e9rmg77oZxjOFE3BWZfw,wineries,Wineries,4.5,142,$$,38.37017,-122.29481
+Housley Napa Valley,"1038 Clinton St Napa, CA 94559",hm4wc8mq23P6ggwJ_qhoVw,winetastingroom,Wine Tasting Room,5.0,184,$$,38.301058,-122.2879028
+McKahn Family Cellars,"1031 McKinstry St Napa, CA 94559",WL1iWaefUY9mw0rfPPUNBQ,winetastingroom,Wine Tasting Room,5.0,36,$$,38.3013054,-122.2824685
+O'Brien Estate,"1200 Orchard Ave Napa, CA 94558",Q9nnwLPUI66JovirXricwA,wineries,Wineries,4.5,187,$$,38.3458853537695,-122.33976825643451
+Laird Family Estate,"5055 Solano Ave Napa, CA 94558",CBgrreBS92t96o8JUg7Flw,wineries,Wineries,4.5,163,$$,38.3539772033691,-122.335693359375
+Kenzo Estate,"3200 Monticello Rd Napa, CA 94558",wC3Ln2md73EHCiSAj32ugg,wineries,Wineries,4.5,68,$$$,38.354502,-122.204136
+Silenus Winery,"5225 Solano Ave Napa, CA 94558",fD7VrIMnNQJy5iewJ5_Mng,wineries,Wineries,4.5,121,$$,38.363672,-122.339213
+Napa Sonoma Wine Tasting Driver ®,"902 Enterprise Way Ste K Napa, CA 94558",PpOjhPCGMObVfnh3-3wAcQ,winetours,Wine Tours,5.0,130,,38.2587139,-122.2717063
+Rebel Vintners,"1201 First St Napa, CA 94559",z_eK9FBf2Hpgvy2eTr8vOQ,winetastingroom,Wine Tasting Room,4.5,68,$$,38.29829,-122.28695
+Stonehedge Winery,"1004 Clinton St Napa, CA 94559",obZCSR6g1Tp0ok207pCULA,wine_bars,Wine Bars,4.5,138,$$,38.301341,-122.287519
+Etude Wines,"1250 Cuttings Wharf Rd Napa, CA 94559",H_0SOBdmEzzkk9398319TA,wineries,Wineries,4.0,176,$$,38.245847,-122.3150228
+Eleven Eleven Winery,"620 Trancas St Napa, CA 94558",j8TEOilvSUqT2okhmzO9hA,wineries,Wineries,5.0,36,$$$,38.3249893,-122.286911
+JaM Cellars,"1460 First St Napa, CA 94559",z31nB1cGHiwJ3MoS9qwEMQ,wineries,Wineries,4.5,162,$$,38.297435,-122.2893433
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Reynolds Family Winery,"3266 Silverado Trl Napa, CA 94558",vz4XmKow74fr2UpIiAd9VQ,wineries,Wineries,4.0,127,$$,38.3552406,-122.2869398
+Goosecross Cellars,"1119 State Ln Yountville, CA 94599",tlP1ir-OEzsAYNWJYYNMNg,wineries,Wineries,4.5,387,$$,38.4266242980957,-122.352890014648
+The Hess Collection Winery,"4411 Redwood Rd Napa, CA 94558",oMOYzH6r2oPeplABN1ayDg,museums,Museums,4.0,395,$$,38.3382138618663,-122.390175069827
+Caldwell Vineyard,"270 Kreuzer Ln Napa, CA 94559",ldstE5CK2164kL9torc3Gg,wineries,Wineries,5.0,49,$$$,38.2869459,-122.2358185
+Trahan Winery,"974 Franklin St Napa, CA 94559",SxT6FVxubgyVr5PApCpiWg,wineries,Wineries,4.5,99,$$,38.29745,-122.28838
+Encanto Vineyards,"1021 McKinstry St Napa Napa, CA 94559",v59bL2jsKfviHRKfgmebog,wineries,Wineries,5.0,2,,38.30111,-122.282289
+Fontanella Family Winery,"1721 Partrick Rd Napa, CA 94558",ejcIUI5SCZbSTI510uczUw,wineries,Wineries,5.0,52,$$,38.312613,-122.373269
+Elyse Winery,"2100 Hoffman Ln Napa, CA 94558",-yr50TXHYTwb0iNGzinWfg,wineries,Wineries,4.5,117,$$,38.38361,-122.35451
+Robert Mondavi Winery,"7801 Saint Helena Hwy Oakville, CA 94562",YEu8EFkgZdW6NXpAAvdVoA,wineries,Wineries,4.0,1097,$$,38.441422,-122.409546
+Pine Ridge Vineyards,"5901 Silverado Trl Napa, CA 94558",7XaePrZPo7w2HmuJWUtKwA,wineries,Wineries,4.5,307,$$$,38.4047399,-122.33277
+Regusci Winery,"5584 Silverado Trl Napa, CA 94558",QKHkNxzI46t6CApT5cj4Mg,winetastingroom,Wine Tasting Room,4.0,264,$$$,38.39784,-122.31354
+WineINN & DineINN,"449 Seminary St Napa, CA 94559",Ry8rKQtz98SNW7CXsRweww,winetours,Wine Tours,5.0,5,,38.29204,-122.29214
+Chandon,"1 California Dr Yountville, CA 94599",6xAxed-Mkvu0Xq5lWzt9Lw,wineries,Wineries,3.5,1449,$$,38.3963745949975,-122.364698011115
+Odette Estate,"5998 Silverado Trl Napa, CA 94558",Gh67mm_aNPi2UHd3su1jgA,wineries,Wineries,4.0,78,$$,38.40556,-122.32773
+Mi Sueno Winery,"910 Enterprise Way Ste M Napa, CA 94558",HR7frtjVDOEdtZSSKxMhQg,wineries,Wineries,5.0,34,$$,38.2598016,-122.2720075
+Hyde Estate Winery,"1044 Los Carneros Ave Napa, CA 94559",Bg5s--7xCdhGQnyuI1WJtQ,wineries,Wineries,5.0,4,,38.253863,-122.330619
+Robert Sinskey Vineyards,"6320 Silverado Trl Napa, CA 94558",5PZhHJ-GPGO40Uamd7MZGw,wineries,Wineries,4.0,338,$$$,38.425414,-122.337002
+Scribe Winery,"2100 Denmark St Sonoma, CA 95476",xEIQAkMIM9dBQ9TBWAxj6Q,wineries,Wineries,4.0,322,$$,38.2712839,-122.4230626
+AvinoDos Wines,"901 Enterprise Way Ste B Napa, CA 94558",RdQxvcdPgMkl__Q7h-7zUw,wineries,Wineries,5.0,24,$$,38.25867,-122.2736
+Yao Family Wines,"Napa, CA 94559",Pp7Su_2q7VKH0KsqrQe21w,wineries,Wineries,4.5,81,$$,38.2678756713867,-122.24878692627
+Ceja Vineyards,"1016 Las Amigas Rd Napa, CA 94559",kASFvkVETmxwrl3Li-bOPA,wineries,Wineries,4.5,79,$$,38.23562255391007,-122.31443098305694
+Baldacci Family Vineyards,"6236 Silverado Trl Napa, CA 94558",cw0CiHgKriffvqOcQFiFeg,wineries,Wineries,4.5,112,$$,38.418323571036034,-122.337243
+Cakebread Cellars,"8300 St Helena Hwy Rutherford, CA 94573",NY-SXE9i072Qq7h_VZDawg,wineries,Wineries,4.0,788,$$,38.447904,-122.409682
+Napa Valley Wine Train,"1275 McKinstry St Napa, CA 94559",4yKNDUi5AZXVCqXyo3PRxA,newamerican,American (New),4.0,1356,$$$$,38.302398,-122.283715
+McKenzie-Mueller Vineyards and Winery,"2530 Las Amigas Rd Napa, CA 94559",Ynj5_o-bVnaiRKwa6oS-uA,wineries,Wineries,5.0,56,$$,38.23234,-122.33191
+Napa Valley Trail Rides,"100 Rapp Ln Napa, CA 94558",7lpgrZ7dbo4yrFYH5S1udg,horsebackriding,Horseback Riding,5.0,37,,38.308894960837,-122.248969501605
+Migration Winery,"1451 Stanly Ln Napa, CA 94559",fUnGZCRu0CHF08tOMmjS2g,winetastingroom,Wine Tasting Room,5.0,3,,38.244515,-122.293922
+James Cole Winery,"5014 Silverado Trl Napa, CA 94558",kRu7EKnQqb0u0Yjothl7VA,wineries,Wineries,4.5,130,$$$,38.3707151322414,-122.298978236493
+Tulocay Winery,"1426 Coombsville Rd Napa, CA 94558",gN1eiK2qVaUMN-kJBELsog,wineries,Wineries,5.0,14,$$,38.2979965209961,-122.258697509766
+RD Winery,"3 Executive Way Napa, CA 94558",R6ov0dgQC_n7kir3XISeow,winetastingroom,Wine Tasting Room,4.5,16,,38.22490014034714,-122.2573353432758
+Razi Winery,"3108 Silvarado Trl Napa, CA 94558",LFnfdKMSQgA5KL17WjnwDw,wineries,Wineries,5.0,36,$$,38.349254,-122.283146
+Perata Luxury Tours,"1735 Action Ave Ste A Napa, CA 94559",uHp-GVncAf7JGQ0VA7JWSA,limos,Limos,5.0,120,,38.305805,-122.287083
+Cline Cellars,"24737 Arnold Dr Sonoma, CA 95476",H_eOT-VkO-Ip36wpawvm9g,winetastingroom,Wine Tasting Room,4.5,970,$$,38.2140168170748,-122.457671481384
+WeWine Napa,"1625 Trancas St Unit 2244 Napa, CA 94558",7Th8WBELZe-QzSBoy_dulg,winetours,Wine Tours,5.0,10,,38.3215163,-122.3041079
+Vintner's Collective,"1245 Main St Napa, CA 94559",InjapatoSUNJQw-s1mSckQ,winetastingroom,Wine Tasting Room,4.5,145,$$,38.30109,-122.28725
+Shafer Vineyards,"6154 Silverado Trl Napa, CA 94558",6NfZ7oanPwGauSxZXDz4jw,wineries,Wineries,4.5,45,$$$,38.419881,-122.326894
+Napa Cellars Tasting Room,"7481 St Helena Hwy Napa, CA 94558",ZHQLF1Huq-m24ZK6FTnXRA,wineries,Wineries,4.5,376,$$,38.421192,-122.390177
+Hudson Ranch,"5398 Carneros Hwy Napa, CA 94559",nEdwg3yvgmnfZ6-DQwDdNg,wineries,Wineries,5.0,4,,38.264949,-122.365935
+Progeny Winery,"1032 Mt Veeder Rd Napa, CA 94558",Xmyr4iAvY9ZOS0LjIZYQ_A,winetastingroom,Wine Tasting Room,5.0,1,,38.33571,-122.37051
+John Anthony Vineyards,"1440 1st St Tasting Lounge Napa, CA 94559",C0R5urCJk-JSsEP_bIJtnQ,wineries,Wineries,4.5,140,$$,38.2975791,-122.2891414
+PF Wine Tours,"Napa, CA 94558",MpjwUeWPJWnmdjMRK4gJGA,winetours,Wine Tours,5.0,55,,38.31865,-122.29994
+"Materra, Cunat Family Vineyards","4326 Big Ranch Rd Napa, CA 94558",G_AQMzXvnQsKWbBYJl-4zA,wineries,Wineries,5.0,43,$$,38.3612027,-122.3118133
+Robert Biale Vineyards,"4038 Big Ranch Rd Napa, CA 94558",R4uYU5LzpW4dxQKNbcK0ng,winetours,Wine Tours,4.5,125,$$,38.3560694828793,-122.308430671692
+The Wine Foundry,"45 Enterprise Ct Napa, CA 94558",FMUG_BW33P7xXJt_Pdn2_A,wineries,Wineries,5.0,10,$,38.2603302,-122.2742081
+Napa Luxury Coach,"Napa, CA 94558",hKytrS18mZBzloT91xWxpA,limos,Limos,4.5,8,,38.31865,-122.29994
+Mayacamas Vineyards & Winery,"1155 Lokoya Rd Napa, CA 94558",Fh7tfClmn1Bszw838joEPw,wineries,Wineries,4.5,11,$$$$,38.36518,-122.42326
+Aonair Wine,"Napa, CA 94558",QGMN5PGHv8A10AO9LL_m2w,wineries,Wineries,5.0,63,$$$,38.3177642822266,-122.29174041748
+GEN 7 Wines,"850 Bordeaux Way Ste 10 Napa, CA 94558",QRjfPQ9ZU5Vqw_B430D_EA,winetastingroom,Wine Tasting Room,4.5,42,$$,38.247256,-122.273861
+Quilt & Co.,"807 Main St Napa, CA 94559",rda6K-_jHi5VZq72jA8aYg,winetastingroom,Wine Tasting Room,5.0,9,,38.297886,-122.284698
+Jacuzzi Family Vineyards,"24724 Arnold Dr Sonoma, CA 95476",u-Ta5s0ZAxyegzCHtWPGzQ,wineries,Wineries,4.0,821,$$,38.21471,-122.453885
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Quixote Winery,"6126 Silverado Trl Napa, CA 94558",PuOf3pWWbENW-RC3sQ-vfw,wineries,Wineries,4.0,61,$$,38.4181009125607,-122.323620009856
+Carneros Della Notte,"1003 Dealy Ln Napa, CA 94559",-jZOFauYP5dPtP7UehPjZw,wineries,Wineries,4.5,16,$$,38.2575999,-122.339651
+Viansa Winery & Marketplace,"25200 Arnold Dr Sonoma, CA 95476",P2CudRXjCSgmxpC4TCiJwA,wineries,Wineries,4.0,624,$$,38.20847,-122.451805
+Apex Limousine Transportation and Wine Tours,"952 School St Ste 277 Napa, CA 94559",jAQMkCq4t-PX8ZtuB17zQQ,limos,Limos,4.5,162,,38.2968914,-122.2889887
+Tres Sabores Winery,"1620 S Whitehall Ln Saint Helena, CA 94574",2q5C8DmLFUC-_vLA04kvCg,wineries,Wineries,5.0,126,$$,38.461548,-122.444536
+Laces and Limos,"2480 Oak St Ste A Napa, CA 94559",8GM7yZiaTNlLL0uZ_cR_Jg,winetours,Wine Tours,5.0,8,,38.295639,-122.2999753
+Wine Country Drivers,"Napa, CA 94581",jbNbimv4HawSNpTMupGg7A,winetours,Wine Tours,5.0,23,,38.29695,-122.2868
+Celani Family Vineyards,"2230 Big Ranch Rd Napa, CA 94558",l2F5bF9XDKAhD_Fc_HKO6A,wineries,Wineries,4.5,2,$$$,38.334573,-122.293094
+Far Niente Winery,"1350 Acacia Dr Oakville, CA 94562",uHwIZd9lmT56tMP_nd6F_w,wineries,Wineries,4.5,162,$$$,38.424479,-122.404132
+Luna Vineyards,"2921 Silverado Trl Napa, CA 94558",6ggJeMWJyoproJMlmzlZBQ,wineries,Wineries,3.5,230,$$,38.34508,-122.28384
+Cornerstone Cellars,"850 Bordeaux Way Ste 6 Napa, CA 94558",iouQNhgizPClznxlgrhaaw,wineries,Wineries,4.5,7,,38.2474144,-122.2720766
+Opus One Winery,"7900 St Helena Hwy Oakville, CA 94562",XPh3ZBqxA3tldU_-_6KHFg,wineries,Wineries,3.5,465,$$$$,38.4414391100535,-122.399720296699
+Ashes & Diamonds,"4130 Howard Ln Napa, CA 94558",O85r1hSdjOgWDk24dKbJjA,winetastingroom,Wine Tasting Room,4.5,2,,38.344726,-122.3259722
+Beau Wine Tours & Limousine Service,"1754 2nd St Ste B Napa, CA 94559",m9AghieXt2oaQAEIkKTyXQ,winetours,Wine Tours,4.5,349,,38.296694,-122.2924582
+Napa Private Tours,"1052 Shetler Ave Napa, CA 94559",ncAjM4gkobRt4MCFioBBSw,winetours,Wine Tours,5.0,60,,38.28276,-122.27123
+Mayacamas - Napa,"1256 First St Napa, CA 94559",Z8o_IjVNijidaRShDfI7xQ,winetastingroom,Wine Tasting Room,5.0,8,,38.2983847,-122.2874726
+Madorom Vineyards,"2340 Silverado Trl Napa, CA 94558",C9-C9pwHnsb5gGxE1-la9Q,wineries,Wineries,5.0,3,$$,38.340156,-122.281946
+Napa Valley Distillery,"610 1st St Ste 8 Napa, CA 94559",GrERzNcNtLB6S7sPJVc8Kw,distilleries,Distilleries,4.5,279,$$,38.301602,-122.2815194
+Cosentino Winery,"7415 St Helena Hwy Yountville, CA 94599",LG1wrGP6JZ7RHSzP8S4Apw,winetastingroom,Wine Tasting Room,4.5,353,$$,38.40887,-122.37512
+Silver Oak - Oakville,"915 Oakville Cross Rd Oakville, CA 94562",Zumm3-xGQ3Nud-R1YvydCA,wineries,Wineries,4.0,489,$$$,38.4404422,-122.3809788
+Inglenook,"1991 St Helena Hwy Rutherford, CA 94573",9hPBXzNpGYvxaI0lDJrJ6w,wineries,Wineries,4.0,367,$$$,38.458392,-122.423796
+The Caves at Soda Canyon,"2275 Soda Canyon Rd Napa, CA 94558",Q9POpvNouEmBWx6vT8w9Yw,wineries,Wineries,4.5,10,$$$,38.401433,-122.30133
+Madonna Estate,"5400 Old Sonoma Rd Napa, CA 94559",YxBLqDuO4FSIm5QExHWPBg,wineries,Wineries,3.5,173,$$,38.2556419372559,-122.341018676758
+Whetstone Wine Cellars,"1075 Atlas Peak Rd Napa, CA 94558",ZdP7vvVoMe2d68FndNlmgQ,wineries,Wineries,4.5,87,$$,38.3393115,-122.2623851
+Grgich Hills Estate,"1829 St Helena Hwy Rutherford, CA 94573",6zcB6zokx3LdfaHPIc8s_Q,wineries,Wineries,4.0,589,$$,38.465419,-122.428989
+PlumpJack Winery,"620 Oakville Cross Rd Oakville, CA 94562",pWIKdVb0VOoPHxBP0SAb9w,wineries,Wineries,3.5,179,$$,38.455434,-122.374111
+Lewis Cellars,"4101 Big Ranch Rd Napa, CA 94558",emW_LuDDwbiX3iz3rfwmwA,wineries,Wineries,4.5,13,$$$$,38.351246,-122.307404
+WALT Wines Napa Oxbow,"605 1st St Napa, CA 94559",j2fiOk-24csa0IEi8sWu2A,winetastingroom,Wine Tasting Room,4.5,18,$$$,38.3011,-122.28107
+Sequoia Grove Winery,"8338 St Helena Hwy Rutherford, CA 94573",AkCtU_OKi6-byTjGLGSwAw,winetastingroom,Wine Tasting Room,4.5,314,$$,38.4486206620932,-122.413306385279
+Larson Family Winery,"23355 Millerick Rd Sonoma, CA 95476",Mq_fixpIw3lu__ykB3hMnQ,wineries,Wineries,4.5,566,$$,38.2361999,-122.4483
+Rocca Family Vineyards Tasting Room,"129 Devlin Rd Napa, CA 94558",4vw1Yemztf-PQH6YEpWmpQ,wineries,Wineries,4.5,12,$$,38.23821,-122.26942
+All Day Wine Tours,"Napa, CA 94558",OT5sd_SArXGo8Si-xdtKQQ,winetours,Wine Tours,5.0,24,,38.32923889160156,-122.2959213256836
+Prime Cellars,"974 Franklin St Napa, CA 94559",y-eh93-FKhMvlU8Cj6MHuQ,wineries,Wineries,5.0,31,$$,38.2973361393272,-122.288313821426
+Feast it Forward,"1031 McKinstry St Napa, CA 94559",u2llBTWddimNEZccrNCJJw,winetastingroom,Wine Tasting Room,4.5,22,$$,38.3013,-122.28245
+Turnbull Wine Cellars,"8210 St Helena Hwy Oakville, CA 94562",yhUtRV7p98JS5AqAoz0EqA,winetastingroom,Wine Tasting Room,4.0,261,$$,38.4446747,-122.4084054
+Beaulieu Vineyard,"1960 Saint Helena Hwy Rutherford, CA 94573",Av_UWwtKRBLJkL9T5GYPOA,wineries,Wineries,4.0,412,$$,38.46016,-122.423291
+Hamel Family Wines,"15401 Sonoma Hwy Sonoma, CA 95476",FiJVwo9-E74VLpi5XpKX5g,wineries,Wineries,4.5,97,$$$,38.3458142305308,-122.494017806885
+T3 - Tesla Tours & Transportation,"952 School St Ste 252 Napa, CA 94559",XeS29YWAoCOwe6jP-kqTaA,winetours,Wine Tours,4.5,24,,38.2968914,-122.2889887
+Sciandri Family Vineyards,"50 Kreuse Canyone Dr Napa Valley, CA 94559",E3n9oNbpHCSKg652QMwDCg,wineries,Wineries,5.0,7,$$$,38.281436,-122.23796
+Gundlach Bundschu Winery,"2000 Denmark St Sonoma, CA 95476",Tl7D5crViVQnXFA1eL2sAQ,wineries,Wineries,4.0,567,$$,38.27853,-122.42058
+Napa Valley Wine Trolley,"1754 2nd St Ste B1 Napa, CA 94559",OCq_kYHmhBhXx_cMb0BV5w,winetours,Wine Tours,4.0,143,,38.2967254900593,-122.289325989441
+Robert Craig Winery Tasting Salon,"625 Imperial Way Napa, CA 94559",cFR5QwgKm2GyEMRsmw_eQg,wineries,Wineries,4.5,54,$$,38.30657,-122.28252
+Outland,"920 Franklin St Napa, CA 94559",0NNT2EHw2VCKOWtNNnXAXQ,winetastingroom,Wine Tasting Room,5.0,17,$$,38.29733,-122.28809
+B Cellars Vineyards & Winery,"703 Oakville Cross Rd Oakville, CA 94558",L9vSIsnpAskQGRhUz_vdqg,wineries,Wineries,5.0,157,$$,38.449864,-122.373264
+St. Supery Estate Vineyards & Winery,"8440 St Helena Hwy Rutherford, CA 94573",Z0fYtkNluub2edL0-dhlxg,wineries,Wineries,4.0,461,$$,38.4551318502323,-122.414560554116
+Nickel & Nickel,"8164 St Helena Hwy Oakville, CA 94558",iYWNb8o9AuKEKpuiAiKQvw,wineries,Wineries,4.5,130,$$$,38.443243,-122.406763
+Napa Valley Distillery,"2485 Stockton St Napa, CA 94559",7SHk6Ur2TlN9a8B8TK328Q,distilleries,Distilleries,5.0,261,$$,38.29417,-122.3016619
+Vermeil Wines,"1018 1st St Napa, CA 94559",PmIQedYODF4s6AjZk3qD5w,winetastingroom,Wine Tasting Room,4.0,71,$$,38.29915,-122.28586
+Covert Estate,"15 Chateau Ln Napa, CA 94558",eIQWrVyb1l2iqNcmXXen0Q,wineries,Wineries,5.0,4,,38.307445,-122.247464
+Napa Bee Driven,"Napa, CA 94558",_sGfjVSoD2CsuS2e2ddgDg,winetours,Wine Tours,5.0,55,,38.291168,-122.286279
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Antica Napa Valley,"3700 Soda Canyon Rd Napa, CA 94558",8n4fUXqLg-Y5Rj3LnAoW6Q,wineries,Wineries,5.0,8,$$$,38.427937,-122.274933
+Saddleback Cellars,"7802 Money Rd Oakville, CA 94562",hzmFrBWjUVNHHuiPLmN0tQ,winetastingroom,Wine Tasting Room,4.5,82,$$,38.449385,-122.3885091
+Wine Country Safari,"1876 Brown St Napa, CA 94559",XJlD7EBaB7BW9q7GONvh0g,winetours,Wine Tours,5.0,9,,38.305503,-122.2915887
+Holman Cellars,"918 Enterprise Way Ste G Napa, CA 94558",XWi1gDixb2qSBkKJm63T0Q,wineries,Wineries,5.0,38,$$,38.259432,-122.274448
+Anaba Wines,"62 Bonneau Rd Sonoma, CA 95476",AHnrq8T7kGHzbmHB6uS3wQ,winetastingroom,Wine Tasting Room,4.5,251,$$,38.236353,-122.463806
+Amuse Bouche Winery,"1130 Main St Napa, CA 94559",dPFz1ert17m4U7pHwsN4wg,wineries,Wineries,4.5,3,$$$,38.30039,-122.286039
+Italics Winegrowers,"40 Rapp Ln Napa, CA 94558",XfqpcUew8dHgPjdikRWm-Q,wineries,Wineries,5.0,14,$$$,38.3137,-122.250615
+Preferred Limousine,"4225 Solano Ave Ste 630 Napa, CA 94558",WSygUJ3w9Vat3ykqqRuh4A,limos,Limos,4.5,46,,38.33653,-122.32299
+Napa Valley Limousine Services,"1850 West Imola Ave Napa, CA 94558",iZGaX5_bGPS3lFQW-bABwg,limos,Limos,4.5,17,,38.2822671,-122.2953618
+Maritas Vineyard,"2055 N Ave Napa, CA 94558",S9KcAPfjNofMhmQ3MfU2XQ,wineries,Wineries,5.0,9,$$$,38.302154,-122.249869
+Azur at The Green Room,"190 Camino Oruga Ste 9 Napa, CA 94558",o5QsTPWngzPKvtHO3fRqkQ,winetastingroom,Wine Tasting Room,5.0,2,,38.22766,-122.25422
+Falcor Winery,"2511 Napa Valley Corporate Dr Ste 115 Napa, CA 94558",F2rPBR2c_eO7-D0p3UxT3g,wineries,Wineries,4.5,70,$$,38.25603,-122.276279
+Gloria Ferrer Winery,"23555 Arnold Dr Sonoma, CA 95476",EiFXC3xjTpx2Ja6GrvwgXQ,wineries,Wineries,4.0,836,$$,38.223832,-122.472276
+Havens Winery,"1004 Clinton St Napa, CA 94558",FDkYT4QfX4NEpH5NsoiVVQ,wineries,Wineries,4.5,8,$$$,38.301274,-122.2874659
+We Drive Your Car Napa Valley,"947 Lincoln Ave Napa, CA 94558",CgsuUrYGrQsTC3IIFPXlQg,winetours,Wine Tours,5.0,12,,38.3088677,-122.2917507
+Fortunati Vineyards,"986 Salvador Ave Napa, CA 94558",wOVo-DHunhkrQymOEg4QvQ,wineries,Wineries,4.5,14,$$,38.34905,-122.30949
+Promontory Winery,"1601 Oakville Grade Oakville, CA 94562",CAf8TqSPE_wqmnaOSMb45w,wineries,Wineries,5.0,15,$$$$,38.4208658,-122.4149621
+Anthem Limousine Service,"105 Silverado Trl Ste E Napa, CA 94559",uIIeZfbNMeGYkSkYW6lZOQ,limos,Limos,4.5,107,,38.28912,-122.275321
+Buena Vista Winery,"18000 Old Winery Rd Sonoma, CA 95476",zCwt1XcmhfwsbQYgYPpUGA,wineries,Wineries,4.0,449,$$,38.299502,-122.421942
+Oakville Ranch Vineyards,"7781 Silverado Trl Napa, CA 94558",5WgvpoEa_Bqvnz9S4gKdjQ,wineries,Wineries,5.0,3,$$,38.4610071602159,-122.358888437234
+napa valley boutique wine tours,"3200 Soscol Ave Napa, CA 94558",ofuO7j-qzSDcBTmftxt01g,transport,Transportation,5.0,5,$$,38.32312,-122.2862
+Wine Tour Drivers,"Napa, CA 94559",VOsMui5A1DLINVsvkhRmww,winetours,Wine Tours,5.0,72,,38.291542053222656,-122.28694152832031
+Wine Tasting Driver,"4225 Solano Ave Ste 736 Napa, CA 94558",01J1xPoBSbi_VM6HaH_4XA,winetours,Wine Tours,5.0,18,,38.3364765,-122.3229962
+Robledo Family Winery,"21901 Bonness Rd Sonoma, CA 95476",EyvLSq609Cyy-sRXv3te_w,wineries,Wineries,4.5,217,$$,38.24739263290604,-122.48350054331848
+Vine Cliff Winery,"7400 Silverado Trl Napa, CA 94558",CBsJpEvvTIGh7LTzaGTaTg,wineries,Wineries,4.5,45,$$$$,38.447107,-122.350549
+Gabrielle Collection taste+,"1000 Main St STE150 Napa, CA 94559",SUwkFPW3eLDeL8nDUOuBAw,winetastingroom,Wine Tasting Room,5.0,84,$$,38.2995025,-122.2853577
+Boyd Family Vineyard,"4326 Big Ranch Rd Napa, CA 94558",60i68SD1xroy0j0h3BZiXw,wineries,Wineries,5.0,9,$$,38.3612027,-122.3118133
+Matthiasson Wines,"3175 Dry Creek Rd Napa, CA 94558",d-WFHC31DhZ_lbFTRjkR-g,wineries,Wineries,5.0,1,,38.33861,-122.35076
+Shed Creek Cellar,"80 Grapevine Ln Napa, CA 94558",EhOXeJW9Wwp_3vkQ52jTUA,wineries,Wineries,5.0,2,,38.338405360536775,-122.101645
+Reid Family Vineyards,"1020 Borrette Ln Napa, CA 94558",Z94Ftar1bQ6asD3dmILpkA,wineries,Wineries,5.0,27,$$,38.3137,-122.34831
+Small Lot Wine Tours,"San Vicente Ave Napa, CA 94558",RQulJtaJRZ1Ax8a-tn74oQ,winetours,Wine Tours,5.0,50,,38.33684,-122.31545
+Krupp Brothers,"714 1st St Napa, CA 94559",zMI7hhy7ANjw3NGghMkjyw,winetastingroom,Wine Tasting Room,4.5,36,$$,38.3008938,-122.2824461
+A Limo Excursion and Wine Tours,"2471 Solano Ave Ste 206 Napa, CA 94558",vjKJCwHA8Ssb-RP-7c02FA,limos,Limos,4.5,34,,38.3078133,-122.3057467
+Ancien,"Napa, CA 94558",Xc1AuFl56GMyRw1PWHUnRw,wineries,Wineries,5.0,4,,38.297691,-122.235151
+Gargiulo Vineyards,"575 Oakville Cross Rd Oakville, CA 94558",-TGstzhUvPOB_2Qt2MSLLQ,wineries,Wineries,4.5,21,$$,38.453315,-122.366836
+Harvest Wine Tours,"895 Jackson St Ste 345 Napa, CA 94559",dJWMziV0ifFdqlSADtzObw,winetours,Wine Tours,5.0,7,,38.3066965,-122.288272
+Bougetz Cellars,"1021 Atlas Peak Rd Napa, CA 94558",WYjUI22HB_9BApvCNEUstA,winetastingroom,Wine Tasting Room,4.5,14,,38.3385381,-122.2626194
+Memento Mori,"68 Coombs St Napa, CA 94559",Nvdy-WYSOig_-DkJq202CQ,winetastingroom,Wine Tasting Room,5.0,2,,38.2870178961107,-122.287013030216
+Gustavo Wine,"1021 McKinstry St Oxbow Center Napa, CA 94559",MMXe-OydJpVj0MsC4_lN8g,winetastingroom,Wine Tasting Room,4.5,87,$$,38.301205,-122.282218
+Roy Estate,"1220 Soda Canyon Rd Napa, CA 94558",mDZh95v33mH6L8Q39nU4DQ,wineries,Wineries,5.0,1,$$$$,38.36585,-122.27873
+Flavor! Napa Valley,"1001 Second St Ste 330 Napa, CA 94559",EMUWRXV20GDF28ysQNgPDw,restaurants,Restaurants,3.5,4,$$$$,38.2980928,-122.2852147
+Hidden Napa Jeep Wine Tours,"Napa, CA 94558",eUDT6azH0tyMOQngmqleLQ,winetours,Wine Tours,5.0,23,,38.31832,-122.29177
+Napa Valley Wine Guides,"Napa, CA 94558",19wSHfn7MkUpazpd7j4yHg,winetours,Wine Tours,5.0,56,,38.3841682813529,-122.285937502441
+Cork Dork Tours,"257 Walnut St Ste J Napa, CA 94559",560YJzJPRs1x6ERUke-EVg,limos,Limos,5.0,15,,38.2907443,-122.3007366
+Cliff Lede Vineyards,"1473 Yountville Cross Rd Yountville, CA 94599",M9aVMwujjWigBtdODRdP3A,wineries,Wineries,4.0,226,$$,38.42407,-122.344787
+Smith Devereux Wines,"1460 First St Napa, CA 94559",EvoxeKMPe1EIGKnwWs5ulw,wineries,Wineries,5.0,1,,38.297448,-122.289345
+Jessup Cellars,"6740 Washington St Yountville, CA 94599",grMfMpDwXd4PwVnANEAYRA,winetastingroom,Wine Tasting Room,4.5,460,$$,38.405934,-122.366241
+Screaming Eagle Winery,"Oakville, CA 94562",RvPH8DcSFPWFrB1icb1T-A,wineries,Wineries,3.5,6,$$$$,38.4369277954102,-122.402816772461
+Robinson Family Vineyards,"5880 Silverado Trl Napa, CA 94558",KPIVDmcKCAYF95tahIm0og,wineries,Wineries,5.0,21,$$,38.41086361969035,-122.31935492416466
+Bounty Hunter Wine Bar & Smokin' BBQ,"975 1st St Napa, CA 94559",wRmFD-WLajxNGxqhHjo0ZA,beer_and_wine,"Beer, Wine & Spirits",4.0,1524,$$,38.2992859681608,-122.285100115267
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+The Village Napa Valley,"850 Bordeaux Way Napa, CA 94558",nK1_kC1VtHbpItcTzqs2xA,winetastingroom,Wine Tasting Room,4.0,5,,38.247252,-122.274131
+Andaz Napa-a concept by Hyatt,"1450 1st St Napa, CA 94559",jqL1qQNk5zoZnGkT-lkP2Q,hotels,Hotels,4.0,598,$$$,38.2974348,-122.2892761
+Black Cat Vineyard,"1352 4th Ave Napa, CA 94559",dQC-DW5MdMFgH3G_MiTySg,wineries,Wineries,5.0,12,$$,38.28149,-122.247714
+Oasis by Hoopes,"6204 Washington St Napa, CA 94558",o1gzKI9tCcs9Vth2JXz25A,wineries,Wineries,3.5,15,,38.387957163018584,-122.34952523506253
+Wine Me Away,"Napa, CA 94558",p8Nonov6jEFz9911aXQzkQ,winetours,Wine Tours,5.0,19,,38.38326,-122.31306
+Michael-Scott Wines,"2993 Brookwood Dr Napa, CA 94558",a_zFOP-bQ8uQVmLFn29F9Q,beer_and_wine,"Beer, Wine & Spirits",5.0,2,$$,38.3142719,-122.3248809
+Let's Roll Wine Tours & Designated Drivers,"Napa, CA 94558",lk9WyfZKonlVp9jzLiMfWw,winetours,Wine Tours,5.0,13,,38.2968,-122.286
+Stewart Cellars,"6752 Washington St Yountville, CA 94599",aC0tETLk6n0wGxFbqgIkMw,wineries,Wineries,4.5,49,$$,38.406152,-122.3664433
+Frias Family Vineyard,"1886 El Centro Ave Napa, CA 94558",F4qho6kGUSBahjCyYfbg-A,wineries,Wineries,4.5,6,$$,38.3348546,-122.3199497
+Groth Vineyards & Winery,"750 Oakville Cross Rd Oakville, CA 94562",oeNZDuNqJSMLFglBQcvGIA,wineries,Wineries,4.5,57,$$,38.44922,-122.379524
+Amaxlimo,"190 Camino Oruga Ste 17 Napa, CA 94558",nPBlAKRrZs7fMbVdXqkYzw,limos,Limos,5.0,42,,38.2278571184392,-122.254457280429
+Priest Ranch,"6490 Washington St Yountville, CA 94599",RygLWtxkDBkHghQeFfoELQ,wineries,Wineries,4.5,170,$$,38.400084,-122.359028
+Taylor Family Vineyards,"902 Enterprise Way Ste P Napa, CA 94558",fCWwxMBWc-rZl9-WVQ_Nuw,wineries,Wineries,5.0,17,$$$,38.2586755,-122.2716831
+Mi Sueno Tasting Room,"910 Enterprise Way Ste M Napa, CA 94558",BKDGeDzHDVGTHveM8SNeHw,winetastingroom,Wine Tasting Room,4.5,4,,38.2596925400167,-122.272415599475
+Miner Family Winery,"7850 Silverado Trl Oakville, CA 94562",eP9pZmihgwPdd_8uIwb9Uw,wineries,Wineries,4.0,239,$$,38.462719,-122.371093
+California Wine Tours and Transportation,"4075 Solano Ave Napa, CA 94558",qnUDU1O9VwTHG4J_mFoKwA,transport,Transportation,4.0,148,,38.33381,-122.3211
+Bell Wine Cellars,"6200 Washington St Yountville, CA 94599",09PBdFwohkAlE2WjgMQSdQ,wineries,Wineries,4.5,123,$$,38.389816,-122.345741
+Bello Family Vineyards,"8424 Saint Helena Hwy Napa, CA 94558",mbhlmSlqK5wBx6TonAbluw,wineries,Wineries,5.0,1,,38.453556060791,-122.414756774902
+Realm Cellars,"5795 Silverado Trl Napa, CA 94558",Hu100_7pj1Pf5_woD1vxMw,wineries,Wineries,5.0,11,$$$,38.400333,-122.330664
+Ovid Vineyard,"255 Long Ranch Rd Saint Helena, CA 94574",xL3M1LjXl1xz0EjmQv_u-w,wineries,Wineries,4.5,12,$$$,38.46344,-122.34397
+Shadowbox Cellars,"1201 1st St Entrance on Coombs Napa, CA 94559",BCBQKqzJ3wZdNKV0JLeZTw,winetastingroom,Wine Tasting Room,5.0,11,,38.2983481,-122.2870042
+Mira Winery,"6170 Washington St Yountville, CA 94558",0JueW5I1U5wWHu4D308THw,wineries,Wineries,5.0,6,,38.38732,-122.34847
+Anarchist Wine,"850 Bordeaux Way Ste 9 Napa, CA 94558",KYu9X7IFT49qdNMobTuVbQ,winetastingroom,Wine Tasting Room,5.0,13,,38.247347,-122.273831
+Elkhorn Peak Cellars,"200 Polson Rd Napa, CA 94558",i6Fhq_qSyKxlWelDvFhjVQ,wineries,Wineries,5.0,12,$$,38.228224,-122.219554
+Oberon,"550 Gateway Dr Ste 220 Napa, CA 94558",S3s5eonF5N_7cl7II1c9ZQ,wineries,Wineries,4.5,2,,38.2237,-122.26617
+Staglin Family Vineyard,"1570 Bella Oaks Ln Napa, CA 94558",X2VFE37tVXkHzPa8lL-5NQ,wineries,Wineries,4.0,13,$$$,38.442506,-122.424445
+Sodaro Estate Winery,"24 Blue Oak Ln Napa Valley, CA 94558",Aae9Ijv3Msgc8MlgbONhHA,wineries,Wineries,5.0,13,$$,38.315,-122.23313
+Ram's Gate Winery,"28700 Arnold Dr Sonoma, CA 95476",kajjCWRMLmCZRF3du9odJQ,wineries,Wineries,3.5,440,$$$,38.1741152,-122.4504982
+Kivelstadt Cellars,"22900 Broadway Sonoma, CA 95476",-4uWsrlIjk8qhhM1UCW1Cg,winetastingroom,Wine Tasting Room,4.5,53,$$,38.244387,-122.448883
+Bann at Oak Knoll Napa,"2188 Oak Knoll Ave Napa, CA 94558",EXYdYF-1DbIULL994qNdcQ,bedbreakfast,Bed & Breakfast,5.0,23,,38.366233,-122.3084142
+Quintessential Wines,"1310 Second St Napa, CA 94559",6pblqQvBxZChnEe4dr41oA,wineries,Wineries,4.5,2,,38.29735,-122.28764
+The Donum Estate,"24500 Ramal Rd Sonoma, CA 95476",Kv67fUY_H3RNpgqzu12bxg,wineries,Wineries,4.5,33,$$$,38.231313,-122.402866
+Ideology Cellars,"5225 Solano Ave Napa, CA 94558",udB2n_tvbTMuzyBATsBvng,wineries,Wineries,5.0,1,,38.3638202476272,-122.339110944775
+J.Moss,"901B Enterprise Way Napa, CA 94558",6q1Mfv-LBfx2LwoEIe5HuA,wineries,Wineries,5.0,2,,38.2585653718793,-122.273029536009
+Buccella,"Napa, CA 94599",1AomLKv58nVpKeX1YWU76g,wineries,Wineries,5.0,3,$$$$,38.39829,-122.37058
+Futo Wines,"1575 Oakville Grade Oakville, CA 94562",u2oE6OFAJkmDZ3R6YKjBcQ,wineries,Wineries,5.0,4,$$$$,38.416192,-122.412366
+Intimate Wine Tours,"1048 Shetler Ave Napa, CA 94559",byzn85-FWZGD8QAKjNCopQ,winetours,Wine Tours,4.5,34,,38.2830221,-122.2712837
+Acumen Wine Gallery,"1315 1st St Napa, CA 94559",fDML6w788n2zVMam8uzZ7w,winetastingroom,Wine Tasting Room,5.0,21,$$,38.29764,-122.28804
+Hill Family Estate,"6512 Washington St Yountville, CA 94599",SSNXw-fitxPgVEcOnj-Uvw,wineries,Wineries,4.5,160,$$,38.4011459350586,-122.359878540039
+Leaf and Vine,"190 Camino Oruga Ste 24 Napa, CA 94558",ZA7FTCVCwZ-OrTojYS5Pdw,winetastingroom,Wine Tasting Room,5.0,2,,38.22766,-122.25422
+Nicholson Ranch Winery,"4200 Napa Rd Sonoma, CA 95476",JWEDoVxmR0FruBknJ3hE9g,wineries,Wineries,4.0,320,$$,38.255251261885,-122.3913731858
+Suisun Creek Winery,"2350 Morrison Ln Fairfield, CA 94534",i504P9R0EQmakyJsDvGi_g,wineries,Wineries,5.0,1,,38.264721,-122.119915
+Benton Family Wines,"880 Vallejo St Napa, CA 94559",oh8KPMw-Vzp-ovULbjryIQ,winetastingroom,Wine Tasting Room,4.5,3,,38.3045419953,-122.286915547
+Beckstoffer Vineyards,"8600 Conn Creek Rd Rutherford, CA 94573",Lm_x4wgKCzjY8UBaLsQJSQ,wineries,Wineries,5.0,3,,38.464284,-122.395302
+Spelletich Family Winery,"2545 Napa Valley Corporate Dr Ste C Napa, CA 94558",qMA6KR08TEVaLky5tR_wqQ,wineries,Wineries,4.5,18,$$$,38.253694,-122.275972
+Manny´s Wine Tours,"First St Napa, CA 94559",4Ak-g4OGLtaUv_qUcjlN1g,winetours,Wine Tours,5.0,56,,38.291168,-122.286279
+Hyde de Villaine Wines,"588 Trancas St Napa, CA 94558",DJTtmTDSw_IMuoJaPnEFyw,wineries,Wineries,4.0,22,$$$,38.325776,-122.2830894
+Handwritten Wines,"6494 Washington St Yountville, CA 94599",EcybLupMoknFEQfkgdcZAA,wineries,Wineries,5.0,49,$$$,38.4001796,-122.3593313
+Tournesol Wine,"4297 E 3rd Ave Napa, CA 94558",o9zVXZgeXlHiRLu7p5OETg,wineries,Wineries,5.0,10,$$,38.2965803877752,-122.223340272903
+Kale Wines,"708 1st St Napa, CA 94559",1KlDu-0BU_mTO_FxfBV_fg,wineries,Wineries,5.0,1,,38.291168,-122.286064423279
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Leto Cellars,"761 Technology Way Napa, CA 94558",VcbjjSCd_AmayPmTJvoyiw,winetastingroom,Wine Tasting Room,5.0,2,,38.22524554794,-122.266882234775
+Vezer Family Vineyard,"5071 Suisun Valley Rd Fairfield, CA 94534",vK32HqN9hpNbY4Z8Q_Izsw,wineries,Wineries,4.5,81,$$,38.2940805917162,-122.12020345369
+Foley Johnson Winery,"8350 Saint Helena Hwy Rutherford, CA 94573",FqBzBKW58kwX8Ee71Vfxwg,winetastingroom,Wine Tasting Room,4.0,56,$$,38.4494019887075,-122.414019236121
+Cardinale Winery,"7600 St Helena Hwy Oakville, CA 94562",iIivh9j0uSp0AgozDUJUHw,wineries,Wineries,4.0,48,$$$$,38.428591,-122.390506
+Harlan Estate,"Oakville, CA 94562",ijJdmTT1zWVrFzkHSFdGjg,wineries,Wineries,5.0,5,$$$$,38.4369277954102,-122.402816772461
+Gamble Family Vineyard,"7554 St Helena Hwy Oakville, CA 94562",ivqZbNHTgsxzekOzkXCK-w,wineries,Wineries,5.0,19,$$$,38.429147,-122.386892
+Girard Winery - Yountville,"6795 Washington St Yountville, CA 94599",4l1BUGua4nYFvg3q8iIrJg,winetastingroom,Wine Tasting Room,4.5,331,$$,38.4065299,-122.36745
+Eagle Eye Winery,"6595 Gordon Valley Rd Napa, CA 94558",adsgo4aXIIvgkYCEKOZvLw,wineries,Wineries,5.0,7,$$,38.341023,-122.125888
+Favia Erickson Winegrowers,"2031 Coombsville Rd Napa, CA 94558",Ea3TmOvfPO-A3DWWBm6lrA,wineries,Wineries,5.0,6,,38.29348,-122.24972
+Three Fat Guys Wines,"20816 Broadway Sonoma, CA 95476",jzoeVRHEHx4e5wKjMQfBbg,winetastingroom,Wine Tasting Room,5.0,38,,38.2712228253,-122.460727503
+Paradigm Winery,"1277 Dwyer Rd Oakville, CA 94562",4AtuFEcaw0_U7C1WREAH8Q,wineries,Wineries,4.5,53,$$,38.42056,-122.39378
+Silver Trident Winery,"6495 Washington St Yountville, CA 94599",RQfPrnAEqAEyAOd8jMDkPA,wineries,Wineries,5.0,64,$$,38.400497,-122.360031
+Savor Napa Valley Wine Tours,"1625 Trancas St Ste 4263 Napa, CA 94558",uOD6s5ukEH7p1LBpPJ0M-Q,winetours,Wine Tours,5.0,6,,38.3213996887207,-122.304061889648
+Own A Napa Vineyard,"1003 Dealy Ln Napa, CA 94559",cE5GFCgF5fmMciZopPl_2Q,wineries,Wineries,5.0,1,,38.2575999,-122.33965
+Hanson of Sonoma Distillery,"22985 Burndale Rd Sonoma, CA 95476",brsFnqcgqgnv1rwdgnY7sg,distilleries,Distilleries,4.5,70,$$,38.245567,-122.422399
+Farella Vineyard,"2222 N 3rd Ave Napa, CA 94558",MLrxf2ALwpza9bexFRPcQw,wineries,Wineries,5.0,7,$$,38.312621,-122.22864
+Napa Valley Chauffeur,"Vallejo, CA 94591",mgEKnjgo7jauX7cLHLKPDA,winetours,Wine Tours,5.0,19,,38.3233943,-122.3018681
+Rudd Estate,"500 Oakville Cross Rd Oakville, CA 94562",UcAyqkHKKHVY-c90y6kdeA,wineries,Wineries,4.5,18,$$$,38.4578819274902,-122.366798400879
+The Hess Collection Winery,"1166 Commerce Blvd American Canyon, CA 94503",4pb9mCnUWyQkYmwXsWbPUQ,wineries,Wineries,4.0,7,,38.190715,-122.270332
+Bliss Wine Tours,"Napa, CA 94558",v4IKkFF6HZw4Uj7sZ65pNg,winetours,Wine Tours,5.0,18,,38.38326,-122.31306
+Westwood Estate Wine,"11 E Napa St Ste 3 Sonoma, CA 95476",VrDTQ2K5NRpaspnMpk8odw,wineries,Wineries,4.5,106,$$,38.2915583,-122.4574775
+Cornerstone Sonoma,"23570 Arnold Dr Sonoma, CA 95476",LahG3go0q_GbUy5K43mJjA,venues,Venues & Event Spaces,4.5,211,$$,38.227949,-122.457672
+Jayson by Pahlmeyer,"850 Bordeaux Way Ste 7 Napa, CA 94558",d2wwToabxjARS6WCPpOhIw,winetastingroom,Wine Tasting Room,5.0,5,,38.2474144,-122.2720766
+Prime Solum Napa Valley,"1021 Atlas Peak Rd Napa, CA 94558",EAyTQz3c5y9sZ7usI8bT6g,gourmet,Specialty Food,4.5,36,$$,38.33853913156856,-122.26262074394232
+RAM Wine Country Tours,"Napa, CA 94599",ovODN7d0sszsmSdPQaBOVQ,winetours,Wine Tours,5.0,13,,38.398939,-122.373129
+Square One Tasting Bar,"1331 1st St Napa, CA 94559",AVrlnfeWNrf_lWG2b35Adg,winetastingroom,Wine Tasting Room,4.5,4,,38.2976945,-122.2881971
+My Private Napa Driver,"2471 Solano Ave Ste 215 Napa, CA 94558",Y0HzxvYeZ9zcORewDJC_JA,winetours,Wine Tours,5.0,3,,38.3077323,-122.3058297
+Altamura Winery,"1700 Wooden Valley Rd Napa, CA 94558",saOTUUe5LO3qksKLiH5PrA,wineries,Wineries,4.0,12,$$$,38.364395,-122.1751742
+Elizabeth Spencer Winery,"1165 Rutherford Rd Rutherford, CA 94573",mHmn7X_LZp0moqzvgbOKOw,wineries,Wineries,4.0,213,$$,38.4589791814193,-122.422060678426
+Mark Herold Wines,"710 1st St Napa, CA 94559",UBlHJvZubcqX8cQ1LGgt9g,winetastingroom,Wine Tasting Room,4.5,111,$$,38.3009105,-122.282319
+Napa Valley College Winery,"2277 Napa-Vallejo Hwy Napa, CA 94558",y7zQrgBG8U78l4ch-vyh1Q,wineries,Wineries,5.0,3,$$,38.274349,-122.277736
+Hanzell Vineyards,"18596 Lomita Ave Sonoma, CA 95476",6QbIDTkzTSD7myLFyJvjLw,wineries,Wineries,4.5,85,$$$,38.3134300223746,-122.462327066159
+Relic Wine Cellars,"2400 Soda Canyon Rd Napa, CA 94558",RGoYz-L0f19UER9eDh5Zvw,wineries,Wineries,5.0,10,$$,38.411912,-122.293303
+BOND,"Oakville, CA 94562",JwLGcHOY9pS9u07mncVw_w,wineries,Wineries,5.0,3,$$$,38.43462,-122.40057
+Buoncristiani Family Winery,"2275 Soda Canyon Rd Napa, CA 94558",EhpRE40dRlIgcLRHCw4fMA,wineries,Wineries,5.0,5,$$$,38.40336,-122.30048
+Napa Driving Services,"1625 Trancas St Unit 3871 Napa, CA 94558",G0gCTZN6lZldH3vYECrvdQ,winetours,Wine Tours,5.0,4,,38.3214,-122.30406
+Schug Carneros Estate Winery,"602 Bonneau Rd Sonoma, CA 95476",OrIT3N_xgMVyi6nZpm6EFQ,wineries,Wineries,4.0,167,$$,38.2330226700153,-122.471251487732
+Dolce Winery,"1350 Acacia Dr Oakville, CA 94562",WE-fu3mhn9X94ONKcXCY6Q,wineries,Wineries,5.0,1,$$,38.4240773,-122.402102
+Active Wine Adventures,"Napa, CA 94559",MX_XUqMG7pSJT83NhnFZTg,arttours,Art Tours,5.0,20,,38.29737,-122.29047
+Valley Wine Warehouse,"175 Tower Rd Napa, CA 94558",-EmhgVkXfrjc0WylD95HDQ,wineries,Wineries,5.0,1,$$,38.2104,-122.25724
+Blackbird Vineyards,"1330 Oak Knoll Ave Napa, CA 94558",HqtdtN2yWMJQGkYQtNV1Jg,wineries,Wineries,4.5,10,$$$,38.3606279211163,-122.318094635684
+Foley Food & Wine Society Tasting Room at Vista Collina,"850 Bordeaux Way Ste 5 Napa, CA 94558",N6uQJ5khi9a6ICqGlCzTkw,winetastingroom,Wine Tasting Room,4.0,10,,38.247242,-122.274131
+Il Fiorello Olive Oil,"2625 Mankas Corner Rd Fairfield, CA 94534",MyuEGKRW5CUmqKC_IHEdGQ,oliveoil,Olive Oil,4.5,87,$$,38.2789641076739,-122.10123400721935
+JCB Tasting Salon - Yountville,"6505 Washington St Yountville, CA 94599",HTlMUjBxITb0XpeiSLr2hg,winetastingroom,Wine Tasting Room,4.0,87,$$,38.4013671875,-122.360809326172
+Bartholomew Estate Winery,"1000 Vineyard Ln Sonoma, CA 95476",Achwtt26ZfqWDhJzlMrMmg,winetastingroom,Wine Tasting Room,4.5,20,,38.301745,-122.4248061
+J Moss,"901 Enterprise Way Napa, CA 94581",ZkJu7hAgzSRLsnGD3ZaU3w,wineries,Wineries,5.0,4,,38.258674,-122.273574
+Suisun Valley Wine Cooperative,"4495 Suisun Valley Rd Fairfield, CA 94534",dsWM4YBIfEUTo7hUu9pi_w,winetastingroom,Wine Tasting Room,4.5,49,$,38.26309,-122.1146
+Napa Valley Wine Country Tours,"American Canyon, CA 94503",BGMMtumtmN1z1qaIsppz6Q,winetours,Wine Tours,4.5,214,,38.2136164,-122.2533803
+Meadowcroft Wines,"23574 Arnold Dr Hwy 121 Sonoma, CA 95476",rgVG6mR7humUu5DOPwsQeQ,wineries,Wineries,4.5,120,$$,38.2272243158716,-122.457089424133
+Scholium Project,"5074 Old Sonoma Rd Napa, CA 94559",S_SbommVD6sJlAHfZnSO_Q,wineries,Wineries,5.0,5,,38.26635,-122.33292
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Destiny Wine Tours,"3295 Vichy Ave Napa, CA 94558",8hKV48Oprx7jhW1xLzQFeg,winetours,Wine Tours,5.0,23,,38.33656,-122.2587
+Heron House,"6484 Washington St Ste G Yountville, CA 94599",EDjabbyf6sUl3poQa6Wngg,winetastingroom,Wine Tasting Room,5.0,5,,38.39984,-122.35875
+Napa Wine & Spirits,"719 Lincoln Ave Napa, CA 94558",tX74Guz3iED_cnDC5p33OA,beer_and_wine,"Beer, Wine & Spirits",4.0,7,$$,38.30962,-122.28625
+RiverHouse by Blackbird Vineyards,"604 Main St Napa, CA 94558",DrTwyRW0Hic71COUjUIAcg,winetastingroom,Wine Tasting Room,5.0,23,$$$,38.2968327,-122.2830266
+Forthright Winery,"2255 Dry Creek Rd Napa, CA 94558",19K7pxZu63dNyhPSvFWr7Q,wineries,Wineries,5.0,1,,38.33031,-122.34389
+David Arthur Vineyards,"210 Long Ranch Rd Saint Helena, CA 94574",oZolTxqwId-Z7cPA9HzLQw,wineries,Wineries,5.0,18,$$$,38.465325,-122.345735
+Gamling & McDuck Tasting Room,"1420 2nd St Napa, CA 94559",iYox-r2zCiJbWotBwFtZbA,winetastingroom,Wine Tasting Room,5.0,25,,38.29683,-122.28857
+Absolutely Fabulous Tours,"Napa, CA 94558",UmZH-kO4MkZXMRRE16foxg,winetours,Wine Tours,5.0,14,,38.3170536,-122.3019206
+Stacy's Wine Tours,"Napa, CA 94503",zAjrnCT-4XCANbxsHvbW0Q,winetours,Wine Tours,5.0,8,,38.195022,-122.24115
+Sonoma Valley Trail Rides,"Sonoma, CA 95476",C1Si-K2UiGhlfwzfl2-3Nw,horsebackriding,Horseback Riding,5.0,17,,38.3000380598605,-122.421283572444
+Ghost Block Estate Wines,"7830-40 St Helena Hwy Oakville, CA 94562",udfbO6gVIXF1j2gx4_9H4w,wineries,Wineries,5.0,14,,38.435978775739244,-122.40191144110308
+Thirty-Seven Winery,"3000 Sears Point Rd Sonoma, CA 95476",HA3uxokrUs_PBRYqwj20TQ,wineries,Wineries,5.0,2,,38.150444,-122.4489975
+Your Driver In Napa Wine Tours,"Napa, CA 94558",Wcr72plltGghCrhQVq719Q,winetours,Wine Tours,5.0,25,,38.3177642822266,-122.29174041748
+Dynamic Napa Wine Tours,"1754 2nd St Ste B2 Napa, CA 94559",pFDXDcJ6Rsviqrjt0stkbw,winetours,Wine Tours,4.5,33,,38.29669,-122.29246
+Vinfolio,"500 Devlin Rd Ste 102 Napa, CA 94558",YcPdqrpjA5J-L_43D0Dteg,wineries,Wineries,3.0,2,$$,38.220461,-122.261675
+Bazan Cellars,"960 Clinton St Napa, CA 94559",nWHCjASyDypXazhYh7NSBg,winetastingroom,Wine Tasting Room,5.0,9,,38.301566,-122.287098
+Sonoma Adventures,"1254 Broadway Ste 1 Sonoma, CA 95476",3KWn8Dhwe6DzxohqYOpIpw,bikerentals,Bike Rentals,5.0,74,,38.27862047563093,-122.45948222217059
+Bouchon,"6534 Washington St Yountville, CA 94599",M7gmOk8Ayf-stORW8QjgOQ,french,French,4.0,3039,$$$,38.4025718209235,-122.362025265345
+G V Cellars,"1635 Mason Rd Fairfield, CA 94534",R03IAJXqxRAsx18uGlxBbg,wineries,Wineries,4.5,73,$$,38.24296221671643,-122.16904532035119
+Wine & Dine Events,"3240 Soda Canyon Rd Napa, CA 94558",0ixVTViKcRCoNfRNIXROfQ,winetours,Wine Tours,4.5,7,,38.4348204,-122.2958469
+Kelleher Family Vineyard,"7377 St Helena Hwy Yountville, CA 94599",647dxyxXbPxqUuj4ZXjuUw,winetastingroom,Wine Tasting Room,5.0,1,,38.416095,-122.386688
+Vezer Family Vineyard,"2522 Mankas Corner Rd Fairfield, CA 94534",nNUN1b0kfYLAVE6iO2niOg,wineries,Wineries,4.5,107,$$,38.285969,-122.107518
+Winter Wineland,"Sonoma, CA 95476",T7tb2zcqAeuqsfNbaw_6dQ,wineries,Wineries,4.5,11,$,38.293415,-122.470589
+Y. Rousseau Wines,"902 Enterprise Way Ste O Napa, CA 94558",O4PdhLBgX7mkVvLYYyuvlA,winetastingroom,Wine Tasting Room,5.0,2,,38.258487701416,-122.271957397461
+Rock Creek Vineyard,"4610 Green Valley Rd Green Valley, CA 94534",k62ltNl0qe1W3b_reQIN6A,wineries,Wineries,5.0,15,$$,38.268109,-122.163499
+My Napa Valley Driver,"Napa, CA 94559",7Y7Kpv_EX2luwbp_M8wwfA,tours,Tours,5.0,162,,38.291168,-122.286279
+Kongsgaard Winery,"4375 Atlas Peak Rd Napa, CA 94558",Guj6Pi8kL-BIn_ASiz7QGg,wineries,Wineries,5.0,1,,38.436451,-122.2475128
+Classic Convertible Wine Tours,"Napa, CA 94558",yZLDHjElLq_A1gKaA1bjsQ,winetours,Wine Tours,5.0,20,,38.2975381,-122.286865
+Peter Cellars,"21708 Broadway Sonoma, CA 95476",Bjz2LRAcRrZR9IFR6VsciQ,wineries,Wineries,4.5,73,$$,38.2578964073869,-122.450040578842
+Sonoma Valley Wine Trolley,"21707 8th St E Ste B Sonoma, CA 95476",w1suDinCpX6oThss-Tlwgw,wineries,Wineries,4.5,100,$$,38.26046,-122.44134
+Groth Vineyards & Winery,"1225 Hillview Ln Napa, CA 94558",_r8RsAqExSu5U-PAuKmKEg,wineries,Wineries,4.0,2,$$$,38.3687531,-122.341313
+Allure Limo Wine Tours,"1606 Main St Ste 206 Napa, CA 94559",NY5b2pTmdBIqq3JiaYz_LQ,limos,Limos,4.5,46,,38.3036,-122.28886
+Simply Driven,"103 Hemings Ct Napa, CA 94558",QZ6XARRTHCHg4BBdXJlcpQ,winetours,Wine Tours,5.0,21,,38.338537,-122.312223
+Wooden Valley Winery,"4756 Suisun Valley Rd Fairfield, CA 94534",YY4TWJxI5dPW6DZNnXPA5g,wineries,Wineries,4.5,130,$$,38.27656,-122.112879
+Godspeed Vineyards,"3655 Mt Veeder Rd Napa, CA 94559",kRNffcKr0Nb1D2ZckTmNGQ,wineries,Wineries,5.0,2,,38.38908,-122.43917
+Balloons Above the Valley,"603 California Blvd Napa, CA 94558",g4cu1YgJxhpaa8pQbT0UTQ,hot_air_balloons,Hot Air Balloons,4.5,382,,38.29508,-122.30098
+Frazier Winery,"Napa, CA 94558",893Xlys124uVw8wmkwtNnQ,wineries,Wineries,4.5,8,$$,38.38326,-122.31306
+Mountain Terraces Vineyard,"3030 Cavedale Rd Glen Ellen, CA 95442",eoQBgO2anf4MCNfwG5rQLg,wineries,Wineries,5.0,1,$$$$,38.357009,-122.466577
+Vinoce Vineyards,"1100 Wall Rd Napa, CA 94558",YwaPIpU7BHba4iRbOzkN6Q,wineries,Wineries,5.0,1,$$,38.43888,-122.48222
+Napa Valley Wine Tours,"Napa, CA 94558",xVvn-AmBT8w6HHkuIGH44A,winetours,Wine Tours,5.0,8,,38.3177642822266,-122.29174041748
+Blankiet Estate,"2358 California Dr Yountville, CA 94599",7zP3d3gPKVJy7XZbNfRLCw,wineries,Wineries,4.5,11,$$,38.4007242,-122.3837445
+Keever Vineyards,"Yountville, CA 94599",9f2WKEASJkcJUtDb0SAEuA,wineries,Wineries,5.0,20,$$,38.40245,-122.36106
+Valley of the Moon Winery,"134 Church St Sonoma, CA 95476",U3bPnySAiyBNe6Cq9fnzaA,wineries,Wineries,4.0,129,$$,38.2931453,-122.4593959
+Ceja Vineyards Wine Salon,"22989 Burndale Rd Sonoma, CA 95476",seoVbJAQqyk_W6gBvWoCow,wineries,Wineries,5.0,32,$$,38.2460468131242,-122.422827410575
+Phenomenal Limos & Wine Tours,"3379 Solano Ave Ste 301 Napa, CA 94558",DfKPD9OI8bJx3cNChwOE9w,winetours,Wine Tours,5.0,4,,38.3191858,-122.310113
+Napa Your Way,"Napa, CA 94558",T6qbJZPSL8Xf6wPCqagftA,winetours,Wine Tours,5.0,27,,38.2049098462187,-122.115153021875
+BevMo,"3391 Jefferson St Napa, CA 94558",r2D5cpCBGRlDMjrybAmdLw,beer_and_wine,"Beer, Wine & Spirits",2.5,14,$$,38.3215575923532,-122.300372671797
+Gemstone Vineyard,"Yountville, CA 94599",XBWkU6I551bFJSNVYWn0gw,wineries,Wineries,5.0,4,$$$$,38.40245,-122.36106
+Hope & Grace Wines,"6540 Washington St Yountville, CA 94599",qvsn45TNH0w6HcLLKuuIWQ,wineries,Wineries,4.5,171,$$,38.4029922485352,-122.362121582031
+Lagier Meredith Vineyard,"4967 Dry Creek Rd Napa, CA 94558",TbnCrWlPPVHEhjdqMayXbw,wineries,Wineries,5.0,4,$$,38.3747445,-122.3879989
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Elegant Wine Tours,"2323 Oak St Napa, CA 94559",LVf45ecB-wGSsQXZ2kGPsg,limos,Limos,3.5,66,,38.2953442,-122.2993936
+Old Bridge Cellars,"703 Jefferson St Napa, CA 94559",KvlTvDa970mtLegEnnwi7A,wineries,Wineries,4.5,2,,38.2950233,-122.2938891
+Auteur Wines,"373 1st St W Sonoma, CA 95476",yKlZBz5gK-F5aGmRV2Beiw,wineries,Wineries,4.5,18,$$$,38.2939789726682,-122.458705292053
+Fine Wine Tours,"1641 Elm St Napa, CA 94559",RuXefME_SzxJ_yRzJ-leSw,winetours,Wine Tours,5.0,8,,38.2895385,-122.2915722
+Moss Creek Winery,"6015 Steele Canyon Rd Napa, CA 94558",88O8sgmFJLkURjKxjt1U8A,wineries,Wineries,5.0,1,$$$,38.44593,-122.19492
+J Gregory Cellars,"1890 El Centro Ave Napa, CA 94558",B1qwJwySi11mZqEv2IotKw,wineries,Wineries,4.0,4,,38.3349609,-122.3201294
+Dominus Estate,"2570 Napa Nook Rd Yountville, CA 94599",KN34M4fyOjHpJjJHK3T0cA,wineries,Wineries,4.5,6,$$$$,38.4048461914062,-122.37353515625
+SafeRide Wine Tours,"Napa, CA 94559",G8sf3oDiwbFDNahDb0qHnQ,limos,Limos,5.0,9,,38.2392768859863,-122.330627441406
+Sebastiani Vineyards & Winery,"389 4th St E Sonoma, CA 95476",G9Gz1MwxI0vM5tqkm-q72g,winetastingroom,Wine Tasting Room,3.5,300,$$,38.2935649121267,-122.448952265667
+Darms Lane Vineyard,"1150 Darms Ln Napa, CA 94558",B-1c4w0RliWzOHJIjFm5dg,wineries,Wineries,5.0,2,,38.36385,-122.35121
+Patz & Hall Winery,"21200 8th St E Sonoma, CA 95476",lGW8jAgwHqQdgAoPj8_EgQ,wineries,Wineries,4.5,67,$$$,38.26397,-122.43761
+Stone Edge Farm Winery,"Sonoma, CA 95476",jxDjGCqt6iugqJO96qucGg,wineries,Wineries,4.5,8,$$,38.2890739440918,-122.396858215332
+Hestan Vineyards,"6548 Washington St Yountville, CA 94599",gbmkodzx0Qe6955dlzha0A,winetastingroom,Wine Tasting Room,4.0,49,$$,38.4031105041504,-122.362594604492
+Iconic Wine Tours,"2114 Imola Ave Napa, CA 94559",fil_Np4WPRdED1FOOWRlBw,winetours,Wine Tours,5.0,3,,38.2798408,-122.256173
+Surh Cellars,"Napa, CA 94558",cLFnJdeO-3fAadOV_weSoA,wineries,Wineries,5.0,2,,38.31832,-122.29177
+Master Wine Tours,"25 Fairways Dr Napa, CA 94558",FRMO5fJ8Xy1INUsa6WoNXQ,winetours,Wine Tours,5.0,7,,38.3581390380859,-122.263832092285
+Bonneau Wines,"21660 8th St E Ste A Sonoma, CA 95476",WKXRds_5UPTv_bxKf4YnYg,wineries,Wineries,4.5,15,$$,38.2595709,-122.4395611
+Designated Drivers Napa Sonoma,"2587 Wine Country Ave Napa, CA 94558",HLMKoJL9SoTSlVDtWRwFyQ,winetours,Wine Tours,4.0,50,,38.3288089,-122.3365829
+Val's Liquor,"1531 3rd St Napa, CA 94559",4nUDsf4_4GvmGs0c4VQWpA,beer_and_wine,"Beer, Wine & Spirits",3.0,19,$$,38.29537,-122.2889
+Monticelli Brothers,"4446 Stillson St Napa, CA 94558",WDWWBGhqyEEgDG-hhJwkVg,wineries,Wineries,5.0,1,$$,38.33379,-122.32668
+VinRoc Wine Caves,"4015 Atlas Peak Rd Napa, CA 94558",-QWgDY7rQXidPYzPrZRA8A,wineries,Wineries,5.0,1,$$,38.42648,-122.24922
+Wine Country Connection,"6484 Washington St Ste E Yountville, CA 94559",6O4Ot7E4sCnYgBqY1cKz5A,beer_and_wine,"Beer, Wine & Spirits",5.0,14,$$,38.3998238,-122.3588953
+Napa Private Driver,"Napa Valley, CA 94559",rWHidaVrofQdFMFFSrg-7w,winetours,Wine Tours,5.0,21,,38.2973709106445,-122.290466308594
+Wine Country Confidential,"Napa, CA 94559",6Zwy9J33qBZdUu0kWcku4w,winetours,Wine Tours,5.0,15,,38.2392768859863,-122.330627441406
+Roche Winery & Vineyards,"22097A Bonness Rd Sonoma, CA 95476",2dZA_gb2pKGHL82xqQFpRw,wineries,Wineries,4.5,19,,38.24168,-122.48098
+Tin Barn Vineyards,"21692 8th St E Ste 340 Sonoma, CA 95476",clqKz648ryrNQ-fpXJuZ1g,wineries,Wineries,4.5,83,$$,38.2590558449157,-122.434944500494
+Mangels Vineyards,"4529 Suisun Valley Rd Fairfield, CA 94534",9XhTYIrXeaYWNIiYuzjbfw,wineries,Wineries,4.5,7,$$,38.2646811628515,-122.113631498112
+Wine Tours by Shane,"Napa, CA 94558",i4_oWFoYzL7Ar07p8NTcpQ,winetours,Wine Tours,5.0,8,,38.31865,-122.29994
+Repris Wines,"1700 Moon Mountain Dr Sonoma, CA 95476",bX1tMaQf8KeH2ASPkz7dtA,wineries,Wineries,4.5,59,$$$,38.345924,-122.458795
+Napa Sonoma Wine Guy,"Napa, CA 94559",1Ym4mda9rLUrsVAwS9WpCw,winetours,Wine Tours,4.0,4,,38.291168,-122.286279
+Unique Wine Experience,"Napa, CA 94558",BlGJY_Tte0rlxYyVdENPlg,wineries,Wineries,5.0,12,,38.32923889160156,-122.2959213256836
+Obsidian Wine Co.,"23568 Arnold Dr Sonoma, CA 95476",HsxMJwpwBJ1YtW8Ixswjow,winetastingroom,Wine Tasting Room,5.0,35,$$,38.2278765,-122.4584227
+Robert John Vineyards,"1463 1st St Napa, CA 94559",t-yHeYrpsCI9VkWtbXiGXQ,wineries,Wineries,5.0,2,,38.297093,-122.288957
+BX of Napa Wines,"Napa, CA 94558",1zrnA2wTMIS7jhpjg8ws4g,wineries,Wineries,5.0,5,$$,38.3177642822266,-122.29174041748
+Jade Mountain Winery,"621 Airpark Rd Napa, CA 94558",zj5i7gIunFt9pAoFwuft3A,wineries,Wineries,4.0,1,$$$,38.21761,-122.26923
+Wine Country Bay Area Limo Service,"2328 Oak St Napa, CA 94559",dLMbXo1dYD0K20hg9iTdWA,limos,Limos,4.5,29,,38.295854,-122.299391
+Vinum Cellars,"499 Devlin Rd Napa, CA 94558",L6XWUxexl3yLhX-Kb90fIQ,wineries,Wineries,5.0,1,,38.223094,-122.263104
+Pushpak Motors,"414 1st St E Ste F Sonoma, CA 95476",yEXDyujvbgqYKc2QFyWhFw,scooterrentals,Scooter Rentals,5.0,3,,38.29326,-122.456218
+Chris Phelps Wines,"1420 Madrona Ave St. Helena, CA 94574",4GsRLffgAZv07XjAwpE2Rw,wineries,Wineries,5.0,1,,38.3029507537766,-122.314904261924
+Alta Luxury Transportation,"392 Devlin Rd Napa, CA 94558",OK7rmBL2Yp9BBIOjXR6ABw,limos,Limos,4.5,11,,38.2287955,-122.2592204
+Driven in Napa Valley,"Napa, CA 94558",9sM5C8R1dvARNYfsargnxQ,winetours,Wine Tours,5.0,5,,38.3177642822266,-122.29174041748
+Patland Estate Vineyards,"2275 Soda Canyon Rd Napa, CA 94558",gglYhei0AI-OjOUGJ8UQZQ,venues,Venues & Event Spaces,5.0,17,$$$,38.399019,-122.292743
+Ilsley Vineyards,"6275 Silverado Trl Napa, CA 94558",_x3kXGQdEXdJMabwQGfP7g,wineries,Wineries,5.0,2,$$$,38.425524,-122.328653
+Magnavita Cellars,"Napa, CA 94558",n_b9NW6dsEB1Oq7usXcrvg,winetastingroom,Wine Tasting Room,5.0,1,,38.32062,-122.298
+WALT Wines,"380 1st St W Sonoma, CA 95476",aAu3EoCwCOyeH3BQnXIKMw,wineries,Wineries,4.0,151,$$,38.2943420410156,-122.45832824707
+Roche Winery,"122 W Spain St Sonoma, CA 95476",5ALJHalWG08rZZbvI_MLsQ,winetastingroom,Wine Tasting Room,4.0,321,$$,38.2940483093262,-122.459106445312
+Crosby Roamann,"45 Enterprise Ct Ste 6 Napa, CA 94558",hIZBrStxP8M2MsUWoqy6Nw,wineries,Wineries,3.5,5,$$,38.2603912353516,-122.274131774902
+Kapcsandy Family Winery,"Yountville, CA 94599",MGoPkNnON2tW1CHTKku_JQ,wineries,Wineries,5.0,5,$$$,38.40245,-122.36106
+Del Dotto Historic Winery & Caves,"1055 Atlas Peak Rd Napa, CA 94558",glAGpCqfRqdvs3f2siP3wA,winetastingroom,Wine Tasting Room,4.0,590,$$$,38.338826,-122.262071
+Homewood Winery,"23120 Burndale Rd Sonoma, CA 95476",eBhpal9ua_nql1zKRId4gA,wineries,Wineries,4.0,116,$$,38.24556,-122.42121
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Vellum Wines,"Napa, CA 94581",Ha_bohEqVFkbATTugsVbQw,wineries,Wineries,5.0,1,$$,38.31364,-122.29476
+Petroni Vineyards,"990 Cavedale Rd Sonoma, CA 95476",uT-8iUdaX49_C_vu7d4XRQ,wineries,Wineries,4.5,96,$$,38.3426659738006,-122.47730255127
+Detert Family Vineyard,"1500 Walnut Dr St. Helena, CA 94574",pgwmkAZ4ptsuxC_CQJAUvw,wineries,Wineries,4.5,3,$$,38.428924,-122.417375
+Sip California,"D/t Sonoma Sonoma, CA 95476",3NA_pKJ0C4GtQi-epUPaUw,wineries,Wineries,4.0,1,$,38.291859,-122.4580356
+Amapola Creek,"392 London Way Sonoma, CA 95476",zjtoi1-DH0M2nncStgsjmQ,wineries,Wineries,5.0,1,,38.33422,-122.48064
+Napa Valley Vics Wine Tours & Car Services,"108 Coloma Way Vallejo, CA 94589",qbWOchTikPn9F5ArcJ7VDw,winetours,Wine Tours,5.0,7,,38.1521530151367,-122.265014648438
+Maroon Wines,"3565 Hagen Rd Napa, CA 94558",QGbVcV7MsHSaFUc-6HjedQ,wineries,Wineries,5.0,1,,38.3180046081543,-122.244613647461
+Beau Vigne,"6795 Washington St Ste O Yountville, CA 94599",3xhYJYMl1eeMv_q-g-puSg,wineries,Wineries,4.5,33,$$$,38.4065716,-122.3670058
+Limos of Napa,"135 Camino Dorado ste 15 Napa, CA 94558",7gsyCO3uPU5iyFze7KNj9g,limos,Limos,4.0,13,,38.22969,-122.25687
+Wine Compliance Alliance,"833 Franklin St Ste 7 Napa, CA 94581",TSBMDpW_fiGZ8-OAEgqmaA,wineries,Wineries,5.0,1,,38.2965202331543,-122.2880859375
+Random Ridge,"4346 Cavedale Rd Mt. Veeder Appellation Glen Ellen, CA 95442",TqPDa4S1dIPa6sxyZ8pLwg,wineries,Wineries,5.0,1,,38.3702,-122.461713
+BackRoad Vines,"2221 Julian Ln Fairfield, CA 94534",kcakK2Vkp5aa3lnSOFCK7w,winetastingroom,Wine Tasting Room,4.5,60,$$,38.285467065167,-122.128150016069
+Perry's Tours,"Napa, CA 94559",6Xjw4mVzjvs5peoVXae-yg,winetours,Wine Tours,5.0,8,,38.25877,-122.24879
+Andrew's Tours and Transportation,"Napa Valley, CA 94558",WDIkvg9WEK-9Yng6k1a7Cg,winetours,Wine Tours,5.0,2,,38.3177642822266,-122.29174041748
+1881 Napa,"7856 St Helena Hwy Oakville, CA 94562",vIs_X21kHvUgWakHH_gSRA,winetastingroom,Wine Tasting Room,5.0,10,,38.437341,-122.402932
+Archer Hotel Napa,"1230 1st St Napa, CA 94559",7TjlR9iZAWm1YewTrbuDmg,hotels,Hotels,4.0,239,$$$,38.2985362,-122.2876861
+Chanticleer Winery,"4 Vineyard View Dr Yountville, CA 94599",kaUan4ZHu-hZ00lRPKKD3Q,wineries,Wineries,5.0,2,,38.3899895846844,-122.36078068614
+Destination Napa Valley,"Napa, CA 94558",ImP-eOXHNG3nWKftyXllQg,winetours,Wine Tours,5.0,5,,38.31777,-122.29174
+Prohibition Spirits Distillery,"452 1st St E Ste E Sonoma, CA 95476",-MFpOMzehB0N9rV8KlCAvA,distilleries,Distilleries,4.5,44,$$,38.2925784,-122.4562586
+Canihan Wines,"1340 Napa Rd Sonoma, CA 95476",OeEm0Fp5r5yB15Dd0ZkRtQ,wineries,Wineries,5.0,6,,38.273313,-122.431212
+Back Room Wines,"1000 Main St Ste 120 Napa, CA 94559",WSitKIzyAIpwI11govmijQ,beer_and_wine,"Beer, Wine & Spirits",4.0,90,$$,38.2994129181451,-122.285290919244
+Liparita Cellars,"Hwy 29 And Oakville Crossroad Napa, CA 94588",ZVSMGfxgspIq2kfnp5Fh0w,wineries,Wineries,5.0,2,,38.436786,-122.4027311
+Elite Limo,"Napa, CA 94559",bmPNbfukyGYy6LqWZ6JVmw,limos,Limos,4.5,21,,38.2392768859863,-122.330627441406
+Galvan Family Cellars,"499 Edison Ct Ste B Fairfield, CA 94534",fr94HUeEN6pY55ibEhtc0A,wineries,Wineries,5.0,9,$$,38.205394,-122.142333
+Topaz Wines,"1755 Monarch Dr Napa, CA 94558",0vqLvXI7c5WVFKEgRya6_Q,wineries,Wineries,5.0,1,,38.33738,-122.31894
+Pangloss Cellars,"35 E Napa St Sonoma, CA 95476",paSyO_gK7XyKb_UYWl_RDQ,winetastingroom,Wine Tasting Room,4.5,133,$$,38.2915573120117,-122.456970214844
+Jean Edwards Cellars,"1021 Atlas Peak Rd Ste B Napa, CA 94558",ER1kMvUARIw45DHFTolwkQ,winetastingroom,Wine Tasting Room,5.0,9,$$,38.338524,-122.262622
+Napa Valley Luxury Wine Tours,"4419 Morse Ct Napa, CA 94558",b7J6n3l4U_lPEV7g6hBTGg,winetours,Wine Tours,5.0,6,,38.342125,-122.32106
+Suisun Valley Filling Station,"2529 Mankas Corner Rd Fairfield, CA 94534",mY18wlwN-0jB_bpY9yDr1w,wine_bars,Wine Bars,4.5,35,,38.286117,-122.105579
+Sonoma Private Tours,"1052 Shetler Ave Napa, CA 94559",ChkQVWpkUG7x2dAR11CLlw,winetours,Wine Tours,5.0,1,,38.2827606201172,-122.27123260498
+CM Destinations & Consulting,"Napa, CA 94559",1VHP7Uo-avxmb9JgaGYgnA,winetours,Wine Tours,5.0,3,,38.2973709106445,-122.290466308594
+Elite Limousine Service,"Napa, CA 94558",OCLTEpH7OiK-2PRNe3Yglw,limos,Limos,4.5,18,,38.38326,-122.31306
+Crush Lounge,"875 Bordeaux Way Napa, CA 94558",TuBIlb0T1y_2BJCh3uUeJQ,venues,Venues & Event Spaces,4.0,231,$$,38.245691,-122.274834
+PUNCH Vineyards,"574 Montgomery St Napa, CA 94559",G3YpDuvn6CJMPQZ3LPJkYA,wineries,Wineries,5.0,1,,38.293898,-122.296768
+CALNAP Winery Tours & Limousine,"Napa, CA 94559",BYxVLXn0fi8BouUM377uBw,winetours,Wine Tours,5.0,15,,38.310683,-122.298832
+Rancho Caymus Inn,"1140 Rutherford Rd Rutherford, CA 94573",xZkaHXgLpcigF45679b6rg,hotels,Hotels,5.0,80,$$$,38.45994,-122.42129
+Last Bottle Wines,"607 Airpark Rd Napa, CA 94558",qEHmozlHJ4q-jgYLPmAnHA,wineries,Wineries,3.0,54,$$$,38.2184371948242,-122.270111083984
+Leviathan Winery,"Oakville, CA 94562",h3qWLb1F32rQblf5dweJFg,wineries,Wineries,4.0,1,,38.4366,-122.40259
+Napa Wine Company,"7830-40 St Helena Hwy Oakville, CA 94562",xIYT8Nl7hDDvjFXp5sKJ0g,wineries,Wineries,4.5,39,$$,38.4363635,-122.4023528
+EMBRAZEN,"555 Gateway Dr Napa, CA 94558",iIRpipMQnNQhpOBIsVmxvA,wineries,Wineries,5.0,1,,38.22224,-122.26713
+Rutas De Napa Wine Tours,"Napa, CA 94558",2htl6fHV_VR1rcVFqqOnQQ,winetours,Wine Tours,5.0,4,,38.3177642822266,-122.29174041748
+Kamen Estate Wines,"111 E Napa St Ste B Sonoma, CA 95476",jRN6z8mAuJNXmllc8mtqfA,wineries,Wineries,4.5,54,$$$,38.2915849246945,-122.45612814245
+Sbragia Family Vineyards,"520 Broadway Sonoma, CA 95476",DRBC4DGYPjoquZiw8zCodg,winetastingroom,Wine Tasting Room,5.0,21,,38.29145,-122.45762
+Agajanian Vineyards & Wine Company,"2785 Napa Valley Corporate Dr Napa, CA 94558",yOGtzuro7ulAOyqMcxrI0g,wineries,Wineries,5.0,1,,38.2469787597656,-122.276596069336
+Lail Vineyards,"Rutherford, CA 94573",GtIC8Tjz9jReS_HEoFqUlw,wineries,Wineries,5.0,2,,38.46024,-122.42023
+American VIP Wine Tours,"820 Randolph St Ste 6781 Napa, CA 94581",_J2ryM50RqEs4gLd1YHWVw,limos,Limos,4.5,22,,38.2971707,-122.2864459
+Hawkes,"383 1st St W Sonoma, CA 95476",rY91zxRJIUH83B_x8ynyow,wineries,Wineries,4.5,71,$$,38.294241,-122.458823
+Three Sticks Wines,"143 W Spain St Sonoma, CA 95476",DUl-GN4gIfJZGrtsZ3B0iA,winetastingroom,Wine Tasting Room,4.5,48,$$$,38.293719,-122.459681
+Lindstrom Wines,"5994 Silverado Trl Napa, CA 94558",wo2Q4jdxBcdQ4rFq6KZyJw,wineries,Wineries,5.0,1,,38.407973,-122.32692
+Lake Sonoma Winery,"134 Church St Sonoma, CA 95476",LzVvPSQkK2NO3xnxlB9kBQ,wineries,Wineries,4.5,56,$$,38.29312,-122.45937
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Noah Vineyards,"6204 Washington Yountville, CA 94599",C01P5Xas0dfUuMTSevRsbg,wineries,Wineries,4.5,2,,38.390735,-122.346252
+Oakville Cross,"939 Oakville Cross Rd Napa, CA 94558",8qURvTg2gI5KtIPkS6xijw,wineries,Wineries,5.0,1,,38.44308,-122.38796
+Luxury Tours,"1755 Industrial Way Ste 13 Napa, CA 94558",BI2Oat8V0K8su-8p9qxxSg,limos,Limos,4.5,9,,38.318355,-122.304036
+Napa Valley Bike Tours & Rentals,"6500 Washington St Yountville, CA 94599",Ju14_sfSDcOpfSX9m_oeVw,bikerentals,Bike Rentals,4.5,207,,38.4011147,-122.3593165
+Yountville Food & Wine Tour,"Yountville, CA 94599",oj9T3avmuYp3cKIhoSOGJQ,foodtours,Food Tours,4.0,11,,38.40155,-122.36126
+Foodshed Take Away,"3385 Old California Way Napa, CA 94558",eXlrnHwQyvBJj2jSo7oZNg,italian,Italian,4.5,269,$$,38.32091,-122.30737
+Atlas Peak,"Napa, CA 94581",AkaYuEllkz_zMXWmAbVy3Q,wineries,Wineries,3.0,1,,38.31364,-122.29476
+Napa Driver Tours,"Napa, CA 94503",GaPvlbwhHyM77G1cFnhjEw,winetours,Wine Tours,5.0,21,,38.17406,-122.25726
+We Drive,"Napa, CA 94581",A3w8zglug5OUM9PEF7nTMw,travelservices,Travel Services,5.0,74,,38.29693,-122.28679
+Napa Valley Tours & Transportation,"3210 California Blvd Napa, CA 94559",j4r86yH2xf_maFcbk0vAiA,limos,Limos,4.5,87,,38.31805,-122.30522
+Dugway Limousine Service,"Napa, CA 94558",-0LP-25MVHzYo4HfrpY9sw,transport,Transportation,4.5,7,,38.32062,-122.298
+Corner 103,"103 W Napa St Sonoma, CA 95476",9ViWXENToGN4uvY_O9uhjw,wineries,Wineries,5.0,113,$$,38.291935,-122.459152
+Avenue Limo Ground Transportation,"Napa, CA 94559",Et83aMY1Bu2PBIwuePRr-w,limos,Limos,4.5,8,,38.3070523657958,-122.281873124336
+Vine Tours Luxury Transportation,"1625 Trancas St Napa, CA 94558",vWoAQcIkhWkXEaObuUZ32w,winetours,Wine Tours,5.0,4,,38.3214,-122.30406
+Vinfolio,"500 Devlin Rd Ste 102 Napa, CA 94558",lUQxuNPb5lg_mTcq6NkU1A,beer_and_wine,"Beer, Wine & Spirits",2.0,40,,38.220461,-122.261675
+Stagecoach Vineyard,"3265 Soda Canyon Rd Napa, CA 94558",2849-YkxzjXeZWRiIUqRzw,wineries,Wineries,5.0,2,$$$,38.4379,-122.2956
+California Tastings,"Sonoma, CA 95476",vBR-Ja1LMWzro4bdano3Uw,winetasteclasses,Wine Tasting Classes,5.0,5,,38.2869148254395,-122.465507507324
+SkyBlack Limo,"Napa, CA 94559",qasHlKNebd5ijtjbpwtcqw,limos,Limos,5.0,17,,38.29737,-122.29047
+Food & Vine Inc,"68 Coombs St Napa, CA 94559",RBLWZjt82HbFXNHZzvqbrQ,wineries,Wineries,5.0,1,$$,38.2870740762265,-122.287135185514
+Napa Valley Aloft Balloon Rides,"6525 Washington St Yountville, CA 94599",OWF6FcuK5OSlRWrpx94pXA,hot_air_balloons,Hot Air Balloons,5.0,288,,38.401901,-122.36229
+Elan Vineyards,"4500 Atlas Peak Rd Napa, CA 94558",Fk5SFabUQQO5IMu8XmRQ7g,wineries,Wineries,5.0,5,,38.4461288452148,-122.24951171875
+Chiarello Family Vineyards,"6525 Washington St Yountville, CA 94599",PiovgRJovVdZgPtPmm0gtQ,wineries,Wineries,4.0,6,$$,38.401611096057,-122.362370916077
+CINNAMON'S WINE TOURS,"2471 Solano Ave Ste 116 Napa, CA 94558",4Hcksc9BBFALm04z6tOiFQ,winetours,Wine Tours,5.0,4,,38.3078,-122.30571
+Jeff Cohn Cellars,"535 First St W Sonoma, CA 95476",Eeo7EZgOf1bt5gxlfGR4Mw,winetastingroom,Wine Tasting Room,4.5,38,$$,38.2913902035151,-122.459125449275
+Entre Nous Wines,"7688 St Helena Hwy Napa, CA 94558",tzotBUa7dDVXS-GTCpUM_Q,wineries,Wineries,5.0,2,$$$,38.432011,-122.392476
+Justice Grace Vineyards,"22985 Burndale Rd Sonoma, CA 95476",cv6LuHfyoQ9-0tjV2w0Gag,wineries,Wineries,5.0,13,$$$,38.242694,-122.422773
+Keplinger Wines,"926 Franklin St Napa, CA 94559",r8DgvACcrYjNIzq6HNtb7w,winetastingroom,Wine Tasting Room,5.0,1,,38.29737,-122.28805
+Bedrock Wine Company,"414 1st St E Sonoma, CA 95476",eI6IaGF9ffRWXBCcv9uyVQ,wineries,Wineries,4.5,19,$$,38.2932338245612,-122.456364071755
+Wine Tasting HdV,"588 Trancas St Napa, CA 94558",FatdWObVdPcGGB3LeBbApA,wineries,Wineries,5.0,2,$$$,38.3261413574219,-122.282272338867
+Napa Native Wine Tours,"4225 Solano Ave Ste 631 Napa, CA 94558",J0WHHMrh1RKHXAbbTitQWg,winetours,Wine Tours,5.0,13,,38.33653,-122.32299
+Roger Roessler Wines,"654 Broadway Sonoma, CA 95476",9k7K-Rx4n2C34KYwxR0kxg,winetastingroom,Wine Tasting Room,4.5,73,$$,38.28908,-122.45766
+River Terrace Inn,"1600 Soscol Ave Napa, CA 94559",8tpfrRUNJr02IAefkKb32w,hotels,Hotels,3.5,374,$$$,38.30508357859005,-122.28329935276105
+Eighth Street Wineries Open House,"21692 Eighth St E Ste 340 Sonoma, CA 95476",MlonuKscC95Khpxf0qKJHQ,wineries,Wineries,5.0,2,$$,38.2621651,-122.4399338
+Amicis Tours,"Napa, CA 94558",jVgcEC00iITDcjnCOiT74A,winetours,Wine Tours,5.0,17,,38.38326,-122.31306
+Napa Limousine Inc,"2405 Laurel St Ste 105 Napa, CA 94559",xkrShKchGkRE3A5bYZsKXg,winetours,Wine Tours,5.0,12,,38.292613,-122.301467
+Rancho Maria Wines,"481 First St W Sonoma, CA 95476",dE_cIQUx8b7-HoI2UXPmxw,wineries,Wineries,4.0,70,$$,38.2924731,-122.4591225
+Squire Livery,"1043 Westview Dr Napa, CA 94558",PYKiLQiVI_Toks5Qf673lg,tours,Tours,5.0,27,,38.30807,-122.33321
+Selene Wines,"Napa, CA 94558",Oed2riBUDIunS3cEXhZtXg,wineries,Wineries,5.0,1,$$,38.31777,-122.29174
+Troika Wines,"22985 Burndale Rd Sonoma, CA 95476",jxvhiYfvEzzNgef839ehKA,wineries,Wineries,5.0,7,,38.245232,-122.422307
+Napa Downtown,"1290 1st St Napa, CA 94559",2qcDpXXGOTycepKTcvrtiw,beer_and_wine,"Beer, Wine & Spirits",4.0,10,$$,38.2981797158104,-122.287677987792
+Mont La Salle,"4401 Redwood Rd Napa, CA 94558",Gy9utzPVjkd0HFKu9_TTFQ,venues,Venues & Event Spaces,5.0,7,,38.33644,-122.38809
+Clarbec Wines,"19368 Orange Ave Sonoma, CA 95476",af5KKV_Kw0VUDnonRwjw-A,wineries,Wineries,5.0,1,,38.28882,-122.49469
+Howell At the Moon,"Napa, Ca Napa, CA 94503",z9BAU9hEejoHIv07Fsn_0g,wineries,Wineries,4.5,2,,38.2975381,-122.286865
+Adastra Wines,"5 E Napa St Sonoma, CA 95476",TQyfvV4JyI8X3ryUaP6OSg,winetastingroom,Wine Tasting Room,4.5,22,$$,38.2917713,-122.4575961
+Bardessono Vineyards And Wines,"1901 Finnell Rd Yountville, CA 94599",BEGYFXDHAO8TH4ie3mrtLA,wineries,Wineries,5.0,1,,38.4015781,-122.3608105
+Three Sticks Wines,"21692 8th St E Ste 280 Sonoma, CA 95476",g4sisBq5ihKxHzjs1rD8Hg,wineries,Wineries,5.0,1,,38.2621635,-122.4399347
+Beau Wine Tours & Limousine Service,"21707 8th St E Ste A Sonoma, CA 95476",VL1JHT7235ROgEcQPswFdw,limos,Limos,4.5,34,,38.26049,-122.441352
+Lonnie's Wine Tours & Transportation,"Napa, CA 94559",82isDtVlUfeteNVgQ3O-Kw,winetours,Wine Tours,5.0,5,,38.2930030822754,-122.282814025879
+Dog-Friendly Wine Tours,"Napa, CA 94559",smgTMSdJDi_SaiHCIwtnBg,winetours,Wine Tours,3.5,3,,38.29737,-122.29047
+The Westin Verasa Napa,"1314 Mckinstry St Napa, CA 94559",OF5HETTAleTTEmR8IPfdEA,hotels,Hotels,4.0,451,$$$,38.304091,-122.283648
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+B. Kosuge Wines,"Napa, CA 94581",SYM6nw-O2rQjHmir_W5pIg,wineries,Wineries,5.0,1,,38.29695,-122.2868
+Booker & Butler,"Sonoma, CA 95476",3GW22J9FS-SDXh82jRc50A,travelservices,Travel Services,5.0,3,,38.29188,-122.45726
+WineZooloo,"18115 Comstock Ave Ste C Sonoma, CA 95476",0N9WNvqgDsSiR9DAsa4Nqg,winetours,Wine Tours,4.5,2,,38.3113199134266,-122.487856708467
+Coho Wines,"Napa, CA 94581",Q-I8VAUp5_0K_s9kidg01Q,wineries,Wineries,4.5,2,$$,38.29695,-122.2868
+Rutherford Appellation Wineries Passport Weekend,"Rutherford, CA 94573",Phz4zaPpu3KOelYmRNayLQ,wineries,Wineries,4.5,2,$$,38.46024,-122.42023
+Napa Shuttle & Limousines,"Napa, CA 94558",qM5RvcLpbWv0jt8xjFnHfw,tours,Tours,4.5,124,,38.2537008133195,-122.2746852
+Austin's Wine Adventures,"2242 Clay St Napa, CA 94559",YfUlIoc5iaS1A6mYnhYfKw,tours,Tours,5.0,6,,38.2987039,-122.2974552
+Hotel Yountville,"6462 Washington St Yountville, CA 94599",6og1iWWPgqcPJmbS7_tNJA,hotels,Hotels,4.5,257,$$$,38.39822,-122.35746
+Napa City Ghosts & Legends Walking Tour,"Napa, CA 94559",e4j5eC0ieQA2FCBtuW6AsA,walkingtours,Walking Tours,4.5,100,,38.2973709106445,-122.290466308594
+Bacchus Wine Tours & Transportation LLC,"1500 Napa Rd Sonoma, CA 95476",s60shVfsI9jyE-1ro48NmA,winetours,Wine Tours,5.0,13,,38.2726044,-122.4291397
+Golden Gate Shuttle,"Fairfield, CA 94534",DDrg-1e3zHvsB2fkas0cqA,airport_shuttles,Airport Shuttles,5.0,32,,38.2413444519043,-122.121765136719
+Mora Estate,"Sonoma, CA 95476",3Rl5Nx1Up8tRUCjBSVYhTg,wineries,Wineries,5.0,1,,38.294652,-122.457418
+Peter Franus Wines,"Napa, CA",DH_ZvpVqAXl-4rTytcCEMQ,wineries,Wineries,4.0,1,,38.2990798950195,-122.285377502441
+Eclectic Tour,"Napa, CA 94558",9Gb2EUcg5uj7jcZ3AOJOlA,tours,Tours,3.5,7,,38.33532,-122.30343
+2 Pioneers Transport of Napa,"Vallejo, CA 94589",KOa6U1L4zZ31jip2X7tP-Q,airport_shuttles,Airport Shuttles,5.0,6,,38.16234,-122.2494
+Winery Sixteen 600,"589 1st St W Sonoma, CA 95476",izWaafgu-o71dMJkWnNTMg,wineries,Wineries,5.0,24,$$,38.290421,-122.459446
+Spoto Wines,"Oakville, CA 94562",xKBeK9FkhiZiyCMo_tDebA,wineries,Wineries,5.0,4,$$$,38.4369277954102,-122.402816772461
+Napa Terroir Wine Tours,"1148 Pear Tree Ln Napa, CA 94558",XyUvKAGNBBB8iTea5328Bw,winetours,Wine Tours,5.0,8,,38.3210506945237,-122.293578274548
+Vino Valley Tours,"1030 Century Dr Napa, CA 94558",74aOMIhtTrcKlFZ-e7xW4w,winetours,Wine Tours,5.0,2,,38.3071213,-122.3335037
+Hampton Inn & Suites Napa,"945 Hartle Ct Napa, CA 94559",ZPpYf1gvcZUWXmJsGXHPTw,hotels,Hotels,4.0,91,$$,38.2820353,-122.2814234
+Destination Drivers Napa & Sonoma,"Sonoma, CA 95476",7kgPEKQl8eVynU_d5qzuAA,winetours,Wine Tours,5.0,15,$$,38.29188,-122.45726
+Page Wine Cellars,"520 California Blvd Ste 18 Napa, CA 94559",XzqPyV6naDamNVmWfruD2g,wineries,Wineries,4.0,6,$$,38.2938649,-122.30022
+Don Sebastiani & Sons,"135 W Napa St Sonoma, CA 95476",ZqVyFkyaLAtmv5WStda_mA,wineries,Wineries,5.0,1,,38.29187,-122.45988
+Napa Valley Excursions & Wine Tours,"Napa, CA 94558",gDF8g9O0NgSa1_ECcbz8Ig,winetours,Wine Tours,4.5,10,,38.3186492919922,-122.299942016602
+Rosalynd Winery,"2212 Morrison Ln Fairfield, CA 94534",0AinZuPg9G_QBTTZGOZApA,wineries,Wineries,5.0,5,,38.266387741610366,-122.12993134347965
+L'Uvaggio di Giácomo,"Napa, CA 94581",KDzRyyTJqPGRxNrt6y0Qgg,wineries,Wineries,4.0,1,,38.29695,-122.2868
+Shifflett Estate,"PO Box 427 Oakville, CA 94562",dIVOwyUBEXCdBjk3jZUe2g,wineries,Wineries,4.0,1,,38.4366,-122.40259
+Valet of the Moon Wine Tours,"Sonoma, CA 95476",Xatlh1YRkyTG-ZCdq2gRvQ,winetours,Wine Tours,5.0,33,,38.2890739440918,-122.396858215332
+Gourmet Food & Wine Tours,"453 1st St E Sonoma, CA 95476",PAh1vLibFjxeW7gU7fGTKw,winetours,Wine Tours,5.0,62,,38.2927444,-122.4570054
+Grapeline Wine Tours,"1051 Broadway Sonoma, CA 95476",VIQ6xJ8ina_MB0bbiEs0_Q,winetours,Wine Tours,5.0,27,,38.2825,-122.45971
+Caddis Wines,"109 East Napa St Sonoma, CA 95476",w6mNVOGrpBG4841DY1-zyw,winetastingroom,Wine Tasting Room,5.0,12,,38.29166,-122.456511
+Consort Wine Tours,"Yountville, CA 94599",PAjBZCldBx06ySGDIZtuNw,winetours,Wine Tours,5.0,3,,38.4019490823782,-122.362804412842
+Oro Puro Vineyards,"Napa, CA 94581",B-Yc5sGjkeiIteTmbm6WXw,wineries,Wineries,4.0,1,,38.29695,-122.2868
+Texture Wines,"35 E Napa St Sonoma, CA 95476",BsSdNbfpG8nMy4eVWBkw2A,winetastingroom,Wine Tasting Room,5.0,3,,38.29155,-122.45697
+Alluvium Wine Tours,"Napa, CA 94558",VwKVSB_BNAvPYasqLrs88g,winetours,Wine Tours,5.0,3,,38.3177642822266,-122.29174041748
+Redwood Liquor,"2030 Redwood Rd Napa, CA 94558",iqt-X1gvTVOrUAfI3NAqbw,beer_and_wine,"Beer, Wine & Spirits",3.5,6,$,38.321125,-122.311877
+Vern's Taxi Service,"254 1st St E Sonoma, CA 95476",4MH6wPhktsjCvaMAoS-FoA,taxis,Taxis,3.5,65,,38.2962449,-122.4553942
+Valley of the Moon Vintage Festival,"Sonoma, CA 95476",zVqK9KJGoPM25fHWJKz6vQ,wineries,Wineries,5.0,1,$,38.293415,-122.470589
+Enjoy Napa Valley,"Napa, CA 94559",SYIGGBm5RZSTgXJvQ9hySA,rafting,Rafting/Kayaking,5.0,88,,38.291168,-122.286279
+Signature Transportation of Napa Valley,"1526 Pear Tree Ln Napa, CA 94558",2Wl4g5yia2WFCOw95RGpAg,winetours,Wine Tours,5.0,6,,38.3221893310547,-122.288551330566
+Jewels Wine Drivers,"Napa, CA 94558",2QQWLAbSrA6LAQm0ciVvxQ,transport,Transportation,5.0,17,,38.32062,-122.298
+Sojourn Cellars,"141 E Napa St Sonoma, CA 95476",wyDWGyyNL6EocGHziMk4AA,wineries,Wineries,4.0,62,$$,38.2913799,-122.45576
+Napa Valley Segway Tours,"Napa, CA 94558",MdOJsVwNgA0wzGA5HWPZXg,scootertours,Scooter Tours,5.0,59,,38.3177642822266,-122.29174041748
+Bump Wine Cellars,"521 Broadway Ste A Sonoma, CA 95476",X036gULZAKfBdydmSIv_Dg,wineries,Wineries,5.0,91,$$,38.2915015,-122.45839
+Sonoma Plaza Wine Experience,"498 1st St E Sonoma, CA 95476",LiW1-Oxh8sr8KUIjvhPGkg,wineries,Wineries,5.0,1,$$,38.291919708252,-122.45630645752
+Cochon Tasting Bar,"531 1st St E Sonoma, CA 95476",SI8d_8RkTKxQ7hCRW5EDDg,winetastingroom,Wine Tasting Room,5.0,17,$$,38.2911999858899,-122.457011975348
+Bohemian Highway Travel,"Sonoma, CA 95476",0DXeeKi58FnTTvnrU1d95Q,foodtours,Food Tours,5.0,4,,38.28691,-122.4655
+Ez Wine Tours,"Napa, CA 94558",4sqX8AICnYSlolD8sCs8mg,winetours,Wine Tours,3.5,3,,38.31777,-122.29174
+Enkidu Wine,"21481 Eighth St E Unit 1 Sonoma, CA 95476",smONjMpqnfi322hrIFSlcQ,winetastingroom,Wine Tasting Room,4.5,11,$$,38.2617031598216,-122.441007057847
+Swanson Wine Tours,"Sonoma, CA 95476",bQkC60udJZ81qVpWfEBOvw,winetours,Wine Tours,5.0,17,,38.28691,-122.46547
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Napa Valley Marriott Hotel & Spa,"3425 Solano Ave Napa, CA 94558",Gs7GoyuEtOb7ErIEWo5IeA,hotels,Hotels,3.5,471,$$$,38.3230652930973,-122.311984598637
+Cristal Blue Carriage,"Napa, CA 94558",9wTsRICdrWRJbIdFOyMjIQ,tours,Tours,5.0,9,,38.31777,-122.29174
+Zina Hyde Cunningham Winery,"480 1st St E Sonoma, CA 95476",Pe9HrE7i2c5M0Oh-Qs8xjg,wineries,Wineries,4.0,36,$$,38.2921374,-122.4565204
+Napa Wine Tours,"1370 Trancas St Ste 233 Napa, CA 94558",QhYh-kluraf6xdQWQdAsYg,winetours,Wine Tours,1.0,1,,38.32322,-122.30206
+David Arthur Vineyards,"Rutherford, CA 94573",ER-oINEAATm41AMaRCaeIA,wineries,Wineries,5.0,1,,38.46024,-122.42023
+G Wine Cellars,"Napa, CA 94558",9K8wa7S0o7od_xbeN0LPdw,wineries,Wineries,1.0,1,,38.3130398821026,-122.234573364258
+Concierge of the Valley,"1370 Trancas Ste 116 Napa, CA 94558",-gU1BsyOt2_sMVo6jr1Cag,personalassistants,Personal Assistants,4.5,15,,38.32322,-122.30206
+California Wine Tour Services,"Sonoma, CA 95487",wqdQSioejBa2isgEFh_owQ,winetours,Wine Tours,4.5,4,,38.27259,-122.43762
+Calmere Estate Winery,"2750 Las Amigas Rd Napa, CA 94559",WwvVPFU86u4orW_aPl_nQA,wineries,Wineries,4.5,68,$$,38.230914,-122.348861
+V Wine Cellar,"6525 Washington St Yountville, CA 94599",zfoE3qt8tglemRg2YT0e2A,beer_and_wine,"Beer, Wine & Spirits",4.0,46,$$,38.401886,-122.362205
+Pina Vineyard Management,"7960 Silverado Trl Napa, CA 94558",y9_DLrDfoTkMCuBgJeQZyg,wineries,Wineries,2.0,1,$$,38.46518,-122.37511
+West Wine Tours,"Sonoma, CA 95476",NxmjBTbHuE6Fy5fofy_owg,winetours,Wine Tours,4.0,14,,38.28664,-122.46553
+MacArthur Place Hotel,"29 E Macarthur St Sonoma, CA 95476",U8D--GVOXAsjcdKOfovNVA,hotels,Hotels,4.5,278,$$$,38.28402230667695,-122.45677693988675
+Ultimate Wine Tours,"51 Temelec Cir Sonoma, CA 95476",WWA8uGYYAuS9gsj5INJufA,winetours,Wine Tours,5.0,4,,38.2676277160645,-122.48998260498
+The Napa Card,"Napa, CA 94581",8-ahtCnsra_92zWAraZI2g,wineries,Wineries,2.5,6,$$,38.31364,-122.29476
+Sip Wine Tasting,"19210 Sonoma Hwy Sonoma, CA 95476",-E7mAxfGQxK9okQ4zVA51A,winetastingroom,Wine Tasting Room,5.0,2,,38.2996292114258,-122.474632263184
+Paper Napan Walkabouts,"729 Lathrop St Napa, CA 94558",yIvEFOE7ZAkMGWV8Msr86g,walkingtours,Walking Tours,5.0,5,,38.31444,-122.28714
+Galatea Effect,"25 E Napa St Ste E Sonoma, CA 95476",47AjYN9a7gFGvCoousbbng,winetastingroom,Wine Tasting Room,5.0,34,$$,38.2916144,-122.4572554
+Valley Wine Tours,"Sonoma, CA 95476",jYl3kC2ssoSowBcZ8RlrhA,winetours,Wine Tours,4.5,42,,38.29188,-122.45726
+Cook Limosuine Services,"144 Mission Ter Sonoma, CA 95476",auHi-gNuaeaKGhNM7YSuOg,limos,Limos,2.5,3,,38.29496,-122.45504
+Barrel Stop,"Napa, CA 94581",gRcGWMDwHk3vOPFn0hzW8Q,wineries,Wineries,3.0,1,,38.31364,-122.29476
+Tom Scott Vineyards,"1465 Yountville Cross Rd Yountville, CA 94558",p2sZAS4F6uR6aEASU0hkDg,wineries,Wineries,1.0,1,$$$$,38.425273,-122.346766
+My Napa Guide,"Napa, CA 94559",TbL23uWGb5h6n9nSZSwWlQ,travelservices,Travel Services,5.0,9,,38.4065228308698,-122.220153808594
+Rose Wine Tours,"Sonoma, CA 95476",yy2eaLdiZt_AlhPh4g_zqQ,winetours,Wine Tours,5.0,7,,38.28691,-122.46547
+After Hours Limousines,"19200 Sonoma Hwy Sonoma, CA 95476",YwY9zRO6kQ7TNEUvsUze7g,limos,Limos,5.0,2,,38.2998258,-122.4748851
+Up Close and Personal Car Service,"208 Nicole Way Vallejo, CA 94589",zyogLFZxEH88RG1TswlTFw,towncarservice,Town Car Service,5.0,4,,38.1473061,-122.2261457
+Modus Operandi Cellars,"Napa, CA",0ytFm9Lu5U0lpqgMDjGw5w,wineries,Wineries,1.0,1,,38.2988586425781,-122.285217285156
+As You Like It!  Wine Country Tours,"Napa, CA 94558",S5C4xgIcvvxN0uQfbuw4GA,tours,Tours,4.5,6,,38.31777,-122.29174
+Gehricke Wines,"32 Patten St Sonoma, CA 94954",ygcoXhOd8FC0g10p8v5Hvg,winetastingroom,Wine Tasting Room,5.0,2,,38.290218,-122.457497
+Cochon Volant BBQ Smokehouse,"18350 Sonoma Hwy Sonoma, CA 95476",st_xK5gpiqyqgOzvSTg90w,bbq,Barbeque,4.0,330,$$,38.311554,-122.480637
+Andretti Winery,"1625 Trancas St NAPA, CA 94558",NKCMqIlRopcSMA15JpeyJg,wineries,Wineries,3.5,311,$$,38.3215163,-122.3041079
+Lionstone International,"21481 8th St E Sonoma, CA 95476",pW9QPUkm2_tTXLCzyQ6qvg,wineries,Wineries,1.0,1,,38.262062,-122.442036
+Hotel Villagio,"6481 Washington St Yountville, CA 94599",RsSshos2H2qNT4pEvoM7nA,hotels,Hotels,4.0,379,$$$,38.400137,-122.360615
+Napa Vinyards,"Napa, CA 94558",UwgQWRkTzlFnw3-QYCaBlQ,wineries,Wineries,1.0,1,,38.38326,-122.31306
+Fulcrum Wines,"25 E Napa St Ste D Sonoma, CA 95476",t49iDRbZBAdncAS6HFfkWw,winetastingroom,Wine Tasting Room,4.5,31,$$,38.2915376048793,-122.457225546241
+Christian Brothers Retreat & Conference Center,"4401 Redwood Rd Napa, CA 94558",S8slGXkJ0qog2wqBB_-B_w,venues,Venues & Event Spaces,5.0,8,,38.33644,-122.38809
+VP Tours And Transportation,"Napa, CA 94581",26heIWJlF7ZcGqTc0p2Wmg,transport,Transportation,5.0,3,,38.1562410791298,-122.238754515275
+Bob Chic and Chic Family Tours,"1070 Summit Napa, CA 94559",j3wuFetK7tt3t1UQjIr1JQ,tours,Tours,5.0,8,,38.309172,-122.273232
+Swanson Vineyards,"1271 Manley Ln Rutherford, CA 94558",nE9zeIZs1sMiaID0MqwRkg,winetastingroom,Wine Tasting Room,4.5,126,$$$,38.450374,-122.419108
+Bevbox - North Vallejo,"701 Mini Dr Vallejo, CA 94589",wyIbrRB78_97XG6AQbF-Yg,beer_and_wine,"Beer, Wine & Spirits",4.0,11,$,38.152774810791,-122.248901367188
+Napa Valley Tours LLC,"Napa, CA 94558",hElxd-3CJ4ZKtCHEYId8Lg,tours,Tours,5.0,8,,38.5193138122559,-122.249099731445
+Murphy's Irish Pub,"464 1st St E Ste C Sonoma, CA 95476",k_4wRgIaZXewNQIApqGD2Q,venues,Venues & Event Spaces,3.5,334,$$,38.2924769,-122.4565768
+Cook Vinyard Management,"19626 Eighth St E Sonoma, CA 95476",LxMkyxBokxu6iRIsuMF5Tw,wineries,Wineries,1.0,1,,38.2862614,-122.434893
+Top It Off Bottling,"21481 8th St E Ste 1 Sonoma, CA 95476",Jt-VYmagp5ETW1v_G_Ae0g,wineries,Wineries,1.0,2,,38.26248,-122.44207
+Sonoma Valley Bike Tours & Rentals,"1254 Broadway Sonoma, CA 95476",MvyIpFBO-wngLmUDBeYNIQ,tours,Tours,5.0,79,$$,38.2786186,-122.45948
+Sonoma Wine Shop,"412 1st St E Sonoma, CA 95476",1ovRBa7bioI7sAuwZBNy8g,beer_and_wine,"Beer, Wine & Spirits",4.5,85,$$,38.2932597398758,-122.456357181072
+The Lodge at Sonoma Renaissance Resort & Spa,"1325 Broadway at Leveroni & Napa Roads Sonoma, CA 95476",UygwBqJkNhAYT761fXtnKw,hotels,Hotels,3.5,470,$$$,38.2772261323268,-122.461032113079
+Sonoma Segway,"Sonoma, CA 95476",ww43XXfl9yoCNp7vBg5McQ,tours,Tours,5.0,34,,38.29188,-122.45726
+Depot Hotel Restaurant - Sonoma,"241 1st St W Sonoma, CA 95476",bSWENN3WZpEYp_Oo9RViQA,italian,Italian,4.0,234,$$,38.29666773218324,-122.45833531382594
+The Panel,"500 W Napa St Ste 522 Sonoma, CA 95476",XW6aQhk9zDA_83V0uZjYKw,beer_and_wine,"Beer, Wine & Spirits",5.0,41,,38.2941364614365,-122.46859378446621
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Burdick Vineyard Tours,"19201 Sonoma Hwy Ste 161 Sonoma, CA 95476",VhbZOTGIs7Js4CXyv1RuMA,tours,Tours,5.0,8,,38.2993283,-122.4753091
+California Winery Shuttle & Tour,"100 Tower Rd American Canyon, CA 94503",Nt4OSOpd876xOnmW2aoI8g,tours,Tours,1.5,9,,38.2119598388672,-122.257171630859
+Broadway Market,"20511 Broadway Sonoma, CA 95476",uXSiHZk-PQWaWg_Sejl0Ug,delis,Delis,4.5,107,$,38.2753806,-122.4605219
+Lana Limousine,"533 Canyon Meadows Dr American Canyon, CA 94503",7-kE1k2gud9X1oXbnOubgg,limos,Limos,5.0,1,,38.1562271118164,-122.262275695801
+Addendum,"6476 Washington St (behind Ad Hoc) Yountville, CA 94599",St6j-3ZodHcQqDcp-BMZbg,newamerican,American (New),4.0,628,$$,38.399528,-122.358516
+The CIA at Copia,"500 1st St Napa, CA 94559",x-BiRrVgiCN4nuRnxKcifg,cookingschools,Cooking Schools,4.0,154,,38.30286,-122.28026
+Best Western Sonoma Valley Inn & Krug Event Center,"550 2nd St W Sonoma, CA 95476",PuVu5M5nVJ8WSFfHce4-cg,hotels,Hotels,3.5,246,$$,38.291471592436,-122.460800452172
+Chappellet Grower Collection Tasting Room,"27 E Napa St Ste A Sonoma, CA 95476",2OWsdc9piagCHbhmVidPtg,winetastingroom,Wine Tasting Room,5.0,29,$$,38.2913,-122.45723
+
+
+
+
+
+
+
+
+
