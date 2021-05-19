@@ -67,8 +67,6 @@ We used these visualizations to identify the opportunities for our business to m
 ***
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
-
 As a result of our analyses, we recommend opening a new winery in the San Diego region. Further analysis and data are required to make a full decision. Additional data may include reviewing real estate pricing; anticipating/reacting to changing sales and marketing tactics; and considering the environmental compatibility of the regions. Finally, stakeholders should also take into consideration the threat of wildfires and droughts in the areas as well.
 
 Additional insights may be gained by using Natural Language Processing (NLP) methods on the business reviews. Studying the sentiments; word choices; and complaints/suggestions may lead to additional insight into different challenges and opportunities for a new winery.
